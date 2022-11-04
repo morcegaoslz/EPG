@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Action FHD">
+    <display-name lang="pt">Telecine Action FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action FHD [Alt]">
+    <display-name lang="pt">Telecine Action FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="pt">Telecine Pipoca FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD [Alt]">
+    <display-name lang="pt">Telecine Pipoca FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="pt">Telecine Premium FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
