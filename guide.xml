@@ -1,354 +1,351 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Belo Horizonte/MG  Warner Channel HD">
-    <display-name lang="pt">Belo Horizonte/MG  Warner Channel HD</display-name>
+  <channel id="Belo Horizonte/MG  Warner Channel HD+">
+    <display-name lang="pt">Belo Horizonte/MG  Warner Channel HD+</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="AMC">
-    <display-name lang="pt">AMC</display-name>
+  <channel id="AMC HD+">
+    <display-name lang="pt">AMC HD+</display-name>
     <icon src="https://i.meuguia.tv/logos/new/mgm.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20230513201500 -0300" stop="20230513220000 -0300" channel="AMC">
-    <title lang="pt">Carrie, A Estranha</title>
-  </programme>
-  <programme start="20230513220000 -0300" stop="20230514000000 -0300" channel="AMC">
+  <programme start="20230513220000 -0300" stop="20230514000000 -0300" channel="AMC HD+">
     <title lang="pt">Esta é a Sua Morte</title>
   </programme>
-  <programme start="20230514000000 -0300" stop="20230514013000 -0300" channel="AMC">
+  <programme start="20230514000000 -0300" stop="20230514013000 -0300" channel="AMC HD+">
     <title lang="pt">O Inevitável</title>
   </programme>
-  <programme start="20230514013000 -0300" stop="20230514031000 -0300" channel="AMC">
+  <programme start="20230514013000 -0300" stop="20230514031000 -0300" channel="AMC HD+">
     <title lang="pt">Sequestrados</title>
   </programme>
-  <programme start="20230514031000 -0300" stop="20230514051000 -0300" channel="AMC">
+  <programme start="20230514031000 -0300" stop="20230514051000 -0300" channel="AMC HD+">
     <title lang="pt">Código de Honra</title>
   </programme>
-  <programme start="20230514051000 -0300" stop="20230514053500 -0300" channel="AMC">
+  <programme start="20230514051000 -0300" stop="20230514053500 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514053500 -0300" stop="20230514060000 -0300" channel="AMC">
+  <programme start="20230514053500 -0300" stop="20230514060000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514060000 -0300" stop="20230514063000 -0300" channel="AMC">
+  <programme start="20230514060000 -0300" stop="20230514063000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514063000 -0300" stop="20230514070000 -0300" channel="AMC">
+  <programme start="20230514063000 -0300" stop="20230514070000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514070000 -0300" stop="20230514073000 -0300" channel="AMC">
+  <programme start="20230514070000 -0300" stop="20230514073000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514073000 -0300" stop="20230514080000 -0300" channel="AMC">
+  <programme start="20230514073000 -0300" stop="20230514080000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514080000 -0300" stop="20230514083000 -0300" channel="AMC">
+  <programme start="20230514080000 -0300" stop="20230514083000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514083000 -0300" stop="20230514090000 -0300" channel="AMC">
+  <programme start="20230514083000 -0300" stop="20230514090000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514090000 -0300" stop="20230514093000 -0300" channel="AMC">
+  <programme start="20230514090000 -0300" stop="20230514093000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514093000 -0300" stop="20230514100000 -0300" channel="AMC">
+  <programme start="20230514093000 -0300" stop="20230514100000 -0300" channel="AMC HD+">
     <title lang="pt">Making The Movies</title>
   </programme>
-  <programme start="20230514100000 -0300" stop="20230514120000 -0300" channel="AMC">
+  <programme start="20230514100000 -0300" stop="20230514120000 -0300" channel="AMC HD+">
     <title lang="pt">Linha de Ação</title>
   </programme>
-  <programme start="20230514120000 -0300" stop="20230514140500 -0300" channel="AMC">
+  <programme start="20230514120000 -0300" stop="20230514140500 -0300" channel="AMC HD+">
     <title lang="pt">Colossal</title>
   </programme>
-  <programme start="20230514140500 -0300" stop="20230514155500 -0300" channel="AMC">
+  <programme start="20230514140500 -0300" stop="20230514155500 -0300" channel="AMC HD+">
     <title lang="pt">No Corredor da Morte</title>
   </programme>
-  <programme start="20230514155500 -0300" stop="20230514180000 -0300" channel="AMC">
+  <programme start="20230514155500 -0300" stop="20230514180000 -0300" channel="AMC HD+">
     <title lang="pt">Cleanskin: Jogo de Interesses</title>
   </programme>
-  <programme start="20230514180000 -0300" stop="20230514195000 -0300" channel="AMC">
+  <programme start="20230514180000 -0300" stop="20230514195000 -0300" channel="AMC HD+">
     <title lang="pt">Resident Evil 4: Recomeço</title>
   </programme>
-  <programme start="20230514195000 -0300" stop="20230514220000 -0300" channel="AMC">
+  <programme start="20230514195000 -0300" stop="20230514220000 -0300" channel="AMC HD+">
     <title lang="pt">Ad Astra: Rumo Às Estrelas</title>
   </programme>
-  <programme start="20230514220000 -0300" stop="20230514225000 -0300" channel="AMC">
+  <programme start="20230514220000 -0300" stop="20230514225000 -0300" channel="AMC HD+">
     <title lang="pt">Molhar As Costas De Um Pato</title>
   </programme>
-  <programme start="20230514225000 -0300" stop="20230515010000 -0300" channel="AMC">
+  <programme start="20230514225000 -0300" stop="20230515010000 -0300" channel="AMC HD+">
     <title lang="pt">Tomb Raider: A Origem</title>
   </programme>
-  <programme start="20230515010000 -0300" stop="20230515025000 -0300" channel="AMC">
+  <programme start="20230515010000 -0300" stop="20230515025000 -0300" channel="AMC HD+">
     <title lang="pt">A Vingança Perfeita</title>
   </programme>
-  <programme start="20230515025000 -0300" stop="20230515044500 -0300" channel="AMC">
+  <programme start="20230515025000 -0300" stop="20230515044500 -0300" channel="AMC HD+">
     <title lang="pt">Celular</title>
   </programme>
-  <programme start="20230515044500 -0300" stop="20230515063000 -0300" channel="AMC">
+  <programme start="20230515044500 -0300" stop="20230515063000 -0300" channel="AMC HD+">
     <title lang="pt">Sequestrados</title>
   </programme>
-  <programme start="20230515063000 -0300" stop="20230515070000 -0300" channel="AMC">
+  <programme start="20230515063000 -0300" stop="20230515070000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230515070000 -0300" stop="20230515073000 -0300" channel="AMC">
+  <programme start="20230515070000 -0300" stop="20230515073000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230515073000 -0300" stop="20230515080000 -0300" channel="AMC">
+  <programme start="20230515073000 -0300" stop="20230515080000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230515080000 -0300" stop="20230515083500 -0300" channel="AMC">
+  <programme start="20230515080000 -0300" stop="20230515083500 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230515083500 -0300" stop="20230515102500 -0300" channel="AMC">
+  <programme start="20230515083500 -0300" stop="20230515102500 -0300" channel="AMC HD+">
     <title lang="pt">Enquanto Somos Jovens</title>
   </programme>
-  <programme start="20230515102500 -0300" stop="20230515121000 -0300" channel="AMC">
+  <programme start="20230515102500 -0300" stop="20230515121000 -0300" channel="AMC HD+">
     <title lang="pt">O Que Fazer?</title>
   </programme>
-  <programme start="20230515121000 -0300" stop="20230515141500 -0300" channel="AMC">
+  <programme start="20230515121000 -0300" stop="20230515141500 -0300" channel="AMC HD+">
     <title lang="pt">Colossal</title>
   </programme>
-  <programme start="20230515141500 -0300" stop="20230515165000 -0300" channel="AMC">
+  <programme start="20230515141500 -0300" stop="20230515165000 -0300" channel="AMC HD+">
     <title lang="pt">Um Estado de Liberdade</title>
   </programme>
-  <programme start="20230515165000 -0300" stop="20230515184500 -0300" channel="AMC">
+  <programme start="20230515165000 -0300" stop="20230515184500 -0300" channel="AMC HD+">
     <title lang="pt">Código Alfa</title>
   </programme>
-  <programme start="20230515184500 -0300" stop="20230515204500 -0300" channel="AMC">
+  <programme start="20230515184500 -0300" stop="20230515204500 -0300" channel="AMC HD+">
     <title lang="pt">Demolidor: O Homem Sem Medo</title>
   </programme>
-  <programme start="20230515204500 -0300" stop="20230516000000 -0300" channel="AMC">
+  <programme start="20230515204500 -0300" stop="20230516000000 -0300" channel="AMC HD+">
     <title lang="pt">Ad Astra: Rumo Às Estrelas</title>
   </programme>
-  <programme start="20230516000000 -0300" stop="20230516013000 -0300" channel="AMC">
+  <programme start="20230516000000 -0300" stop="20230516013000 -0300" channel="AMC HD+">
     <title lang="pt">Piranha 3D</title>
   </programme>
-  <programme start="20230516013000 -0300" stop="20230516032000 -0300" channel="AMC">
+  <programme start="20230516013000 -0300" stop="20230516032000 -0300" channel="AMC HD+">
     <title lang="pt">A Vingança Perfeita</title>
   </programme>
-  <programme start="20230516032000 -0300" stop="20230516050000 -0300" channel="AMC">
+  <programme start="20230516032000 -0300" stop="20230516050000 -0300" channel="AMC HD+">
     <title lang="pt">Sequestrados</title>
   </programme>
-  <programme start="20230516050000 -0300" stop="20230516053000 -0300" channel="AMC">
+  <programme start="20230516050000 -0300" stop="20230516053000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516053000 -0300" stop="20230516060000 -0300" channel="AMC">
+  <programme start="20230516053000 -0300" stop="20230516060000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516060000 -0300" stop="20230516063000 -0300" channel="AMC">
+  <programme start="20230516060000 -0300" stop="20230516063000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516063000 -0300" stop="20230516070000 -0300" channel="AMC">
+  <programme start="20230516063000 -0300" stop="20230516070000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516070000 -0300" stop="20230516073000 -0300" channel="AMC">
+  <programme start="20230516070000 -0300" stop="20230516073000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516073000 -0300" stop="20230516080000 -0300" channel="AMC">
+  <programme start="20230516073000 -0300" stop="20230516080000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516080000 -0300" stop="20230516083000 -0300" channel="AMC">
+  <programme start="20230516080000 -0300" stop="20230516083000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230516083000 -0300" stop="20230516103000 -0300" channel="AMC">
+  <programme start="20230516083000 -0300" stop="20230516103000 -0300" channel="AMC HD+">
     <title lang="pt">Promessas de Guerra</title>
   </programme>
-  <programme start="20230516103000 -0300" stop="20230516123000 -0300" channel="AMC">
+  <programme start="20230516103000 -0300" stop="20230516123000 -0300" channel="AMC HD+">
     <title lang="pt">Marcados Pela Guerra</title>
   </programme>
-  <programme start="20230516123000 -0300" stop="20230516141500 -0300" channel="AMC">
+  <programme start="20230516123000 -0300" stop="20230516141500 -0300" channel="AMC HD+">
     <title lang="pt">Novidades no Amor</title>
   </programme>
-  <programme start="20230516141500 -0300" stop="20230516161000 -0300" channel="AMC">
+  <programme start="20230516141500 -0300" stop="20230516161000 -0300" channel="AMC HD+">
     <title lang="pt">Colossal</title>
   </programme>
-  <programme start="20230516161000 -0300" stop="20230516175500 -0300" channel="AMC">
+  <programme start="20230516161000 -0300" stop="20230516175500 -0300" channel="AMC HD+">
     <title lang="pt">Sem Direito a Resgate</title>
   </programme>
-  <programme start="20230516175500 -0300" stop="20230516185500 -0300" channel="AMC">
+  <programme start="20230516175500 -0300" stop="20230516185500 -0300" channel="AMC HD+">
     <title lang="pt">Molhar As Costas De Um Pato</title>
   </programme>
-  <programme start="20230516185500 -0300" stop="20230516201500 -0300" channel="AMC">
+  <programme start="20230516185500 -0300" stop="20230516201500 -0300" channel="AMC HD+">
     <title lang="pt">Mateína</title>
   </programme>
-  <programme start="20230516201500 -0300" stop="20230516220000 -0300" channel="AMC">
+  <programme start="20230516201500 -0300" stop="20230516220000 -0300" channel="AMC HD+">
     <title lang="pt">Carrie, A Estranha</title>
   </programme>
-  <programme start="20230516220000 -0300" stop="20230517001000 -0300" channel="AMC">
+  <programme start="20230516220000 -0300" stop="20230517001000 -0300" channel="AMC HD+">
     <title lang="pt">Tomb Raider: A Origem</title>
   </programme>
-  <programme start="20230517001000 -0300" stop="20230517021000 -0300" channel="AMC">
+  <programme start="20230517001000 -0300" stop="20230517021000 -0300" channel="AMC HD+">
     <title lang="pt">Esta é a Sua Morte</title>
   </programme>
-  <programme start="20230517021000 -0300" stop="20230517033000 -0300" channel="AMC">
+  <programme start="20230517021000 -0300" stop="20230517033000 -0300" channel="AMC HD+">
     <title lang="pt">O Inevitável</title>
   </programme>
-  <programme start="20230517033000 -0300" stop="20230517052000 -0300" channel="AMC">
+  <programme start="20230517033000 -0300" stop="20230517052000 -0300" channel="AMC HD+">
     <title lang="pt">Celular</title>
   </programme>
-  <programme start="20230517052000 -0300" stop="20230517054500 -0300" channel="AMC">
+  <programme start="20230517052000 -0300" stop="20230517054500 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517054500 -0300" stop="20230517061000 -0300" channel="AMC">
+  <programme start="20230517054500 -0300" stop="20230517061000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517061000 -0300" stop="20230517063500 -0300" channel="AMC">
+  <programme start="20230517061000 -0300" stop="20230517063500 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517063500 -0300" stop="20230517070000 -0300" channel="AMC">
+  <programme start="20230517063500 -0300" stop="20230517070000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517070000 -0300" stop="20230517073000 -0300" channel="AMC">
+  <programme start="20230517070000 -0300" stop="20230517073000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517073000 -0300" stop="20230517080000 -0300" channel="AMC">
+  <programme start="20230517073000 -0300" stop="20230517080000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517080000 -0300" stop="20230517083000 -0300" channel="AMC">
+  <programme start="20230517080000 -0300" stop="20230517083000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517083000 -0300" stop="20230517090000 -0300" channel="AMC">
+  <programme start="20230517083000 -0300" stop="20230517090000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517090000 -0300" stop="20230517092500 -0300" channel="AMC">
+  <programme start="20230517090000 -0300" stop="20230517092500 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230517092500 -0300" stop="20230517111000 -0300" channel="AMC">
+  <programme start="20230517092500 -0300" stop="20230517111000 -0300" channel="AMC HD+">
     <title lang="pt">O Que Fazer?</title>
   </programme>
-  <programme start="20230517111000 -0300" stop="20230517131000 -0300" channel="AMC">
+  <programme start="20230517111000 -0300" stop="20230517131000 -0300" channel="AMC HD+">
     <title lang="pt">Mergulho Radical</title>
   </programme>
-  <programme start="20230517131000 -0300" stop="20230517145000 -0300" channel="AMC">
+  <programme start="20230517131000 -0300" stop="20230517145000 -0300" channel="AMC HD+">
     <title lang="pt">Mergulho Radical 2: Os Recifes</title>
   </programme>
-  <programme start="20230517145000 -0300" stop="20230517162000 -0300" channel="AMC">
+  <programme start="20230517145000 -0300" stop="20230517162000 -0300" channel="AMC HD+">
     <title lang="pt">Com as Próprias Mãos</title>
   </programme>
-  <programme start="20230517162000 -0300" stop="20230517180000 -0300" channel="AMC">
+  <programme start="20230517162000 -0300" stop="20230517180000 -0300" channel="AMC HD+">
     <title lang="pt">As Trapaceiras</title>
   </programme>
-  <programme start="20230517180000 -0300" stop="20230517194500 -0300" channel="AMC">
+  <programme start="20230517180000 -0300" stop="20230517194500 -0300" channel="AMC HD+">
     <title lang="pt">Código do Armagedom</title>
   </programme>
-  <programme start="20230517194500 -0300" stop="20230517220000 -0300" channel="AMC">
+  <programme start="20230517194500 -0300" stop="20230517220000 -0300" channel="AMC HD+">
     <title lang="pt">Ponto Final</title>
   </programme>
-  <programme start="20230517220000 -0300" stop="20230517234000 -0300" channel="AMC">
+  <programme start="20230517220000 -0300" stop="20230517234000 -0300" channel="AMC HD+">
     <title lang="pt">Noivas em Guerra</title>
   </programme>
-  <programme start="20230517234000 -0300" stop="20230518013000 -0300" channel="AMC">
+  <programme start="20230517234000 -0300" stop="20230518013000 -0300" channel="AMC HD+">
     <title lang="pt">A História Verdadeira</title>
   </programme>
-  <programme start="20230518013000 -0300" stop="20230518033000 -0300" channel="AMC">
+  <programme start="20230518013000 -0300" stop="20230518033000 -0300" channel="AMC HD+">
     <title lang="pt">Esta é a Sua Morte</title>
   </programme>
-  <programme start="20230518033000 -0300" stop="20230518051000 -0300" channel="AMC">
+  <programme start="20230518033000 -0300" stop="20230518051000 -0300" channel="AMC HD+">
     <title lang="pt">Assassino a Preço Fixo</title>
   </programme>
-  <programme start="20230518051000 -0300" stop="20230518053500 -0300" channel="AMC">
+  <programme start="20230518051000 -0300" stop="20230518053500 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230518053500 -0300" stop="20230518060000 -0300" channel="AMC">
+  <programme start="20230518053500 -0300" stop="20230518060000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230518060000 -0300" stop="20230518063000 -0300" channel="AMC">
+  <programme start="20230518060000 -0300" stop="20230518063000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230518063000 -0300" stop="20230518070000 -0300" channel="AMC">
+  <programme start="20230518063000 -0300" stop="20230518070000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230518070000 -0300" stop="20230518073000 -0300" channel="AMC">
+  <programme start="20230518070000 -0300" stop="20230518073000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230518073000 -0300" stop="20230518080000 -0300" channel="AMC">
+  <programme start="20230518073000 -0300" stop="20230518080000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230518080000 -0300" stop="20230518083000 -0300" channel="AMC">
+  <programme start="20230518080000 -0300" stop="20230518083000 -0300" channel="AMC HD+">
     <title lang="pt">The Collapse</title>
   </programme>
-  <programme start="20230518083000 -0300" stop="20230518090000 -0300" channel="AMC">
+  <programme start="20230518083000 -0300" stop="20230518090000 -0300" channel="AMC HD+">
     <title lang="pt">The Collapse</title>
   </programme>
-  <programme start="20230518090000 -0300" stop="20230518110000 -0300" channel="AMC">
+  <programme start="20230518090000 -0300" stop="20230518110000 -0300" channel="AMC HD+">
     <title lang="pt">Enquanto Somos Jovens</title>
   </programme>
-  <programme start="20230518110000 -0300" stop="20230518130500 -0300" channel="AMC">
+  <programme start="20230518110000 -0300" stop="20230518130500 -0300" channel="AMC HD+">
     <title lang="pt">Território Restrito</title>
   </programme>
-  <programme start="20230518130500 -0300" stop="20230518150000 -0300" channel="AMC">
+  <programme start="20230518130500 -0300" stop="20230518150000 -0300" channel="AMC HD+">
     <title lang="pt">Promessas de Guerra</title>
   </programme>
-  <programme start="20230518150000 -0300" stop="20230518165000 -0300" channel="AMC">
+  <programme start="20230518150000 -0300" stop="20230518165000 -0300" channel="AMC HD+">
     <title lang="pt">Todas as luas</title>
   </programme>
-  <programme start="20230518165000 -0300" stop="20230518183500 -0300" channel="AMC">
+  <programme start="20230518165000 -0300" stop="20230518183500 -0300" channel="AMC HD+">
     <title lang="pt">Demolidor: O Homem Sem Medo</title>
   </programme>
-  <programme start="20230518183500 -0300" stop="20230518195500 -0300" channel="AMC">
+  <programme start="20230518183500 -0300" stop="20230518195500 -0300" channel="AMC HD+">
     <title lang="pt">Mateína</title>
   </programme>
-  <programme start="20230518195500 -0300" stop="20230518220000 -0300" channel="AMC">
+  <programme start="20230518195500 -0300" stop="20230518220000 -0300" channel="AMC HD+">
     <title lang="pt">Robocop</title>
   </programme>
-  <programme start="20230518220000 -0300" stop="20230519004500 -0300" channel="AMC">
+  <programme start="20230518220000 -0300" stop="20230519004500 -0300" channel="AMC HD+">
     <title lang="pt">Pânico na Neve</title>
   </programme>
-  <programme start="20230519004500 -0300" stop="20230519013500 -0300" channel="AMC">
+  <programme start="20230519004500 -0300" stop="20230519013500 -0300" channel="AMC HD+">
     <title lang="pt">Molhar As Costas De Um Pato</title>
   </programme>
-  <programme start="20230519013500 -0300" stop="20230519030500 -0300" channel="AMC">
+  <programme start="20230519013500 -0300" stop="20230519030500 -0300" channel="AMC HD+">
     <title lang="pt">Piranha 3D</title>
   </programme>
-  <programme start="20230519030500 -0300" stop="20230519051000 -0300" channel="AMC">
+  <programme start="20230519030500 -0300" stop="20230519051000 -0300" channel="AMC HD+">
     <title lang="pt">Promessas de Guerra</title>
   </programme>
-  <programme start="20230519051000 -0300" stop="20230519053500 -0300" channel="AMC">
+  <programme start="20230519051000 -0300" stop="20230519053500 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519053500 -0300" stop="20230519060000 -0300" channel="AMC">
+  <programme start="20230519053500 -0300" stop="20230519060000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519060000 -0300" stop="20230519063000 -0300" channel="AMC">
+  <programme start="20230519060000 -0300" stop="20230519063000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519063000 -0300" stop="20230519070000 -0300" channel="AMC">
+  <programme start="20230519063000 -0300" stop="20230519070000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519070000 -0300" stop="20230519073000 -0300" channel="AMC">
+  <programme start="20230519070000 -0300" stop="20230519073000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519073000 -0300" stop="20230519080000 -0300" channel="AMC">
+  <programme start="20230519073000 -0300" stop="20230519080000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519080000 -0300" stop="20230519083000 -0300" channel="AMC">
+  <programme start="20230519080000 -0300" stop="20230519083000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519083000 -0300" stop="20230519090000 -0300" channel="AMC">
+  <programme start="20230519083000 -0300" stop="20230519090000 -0300" channel="AMC HD+">
     <title lang="pt">Planet Action</title>
   </programme>
-  <programme start="20230519090000 -0300" stop="20230519115000 -0300" channel="AMC">
+  <programme start="20230519090000 -0300" stop="20230519115000 -0300" channel="AMC HD+">
     <title lang="pt">Um Estado de Liberdade</title>
   </programme>
-  <programme start="20230519115000 -0300" stop="20230519135500 -0300" channel="AMC">
+  <programme start="20230519115000 -0300" stop="20230519135500 -0300" channel="AMC HD+">
     <title lang="pt">Território Restrito</title>
   </programme>
-  <programme start="20230519135500 -0300" stop="20230519155000 -0300" channel="AMC">
+  <programme start="20230519135500 -0300" stop="20230519155000 -0300" channel="AMC HD+">
     <title lang="pt">Inimigos de Sangue</title>
   </programme>
-  <programme start="20230519155000 -0300" stop="20230519175000 -0300" channel="AMC">
+  <programme start="20230519155000 -0300" stop="20230519175000 -0300" channel="AMC HD+">
     <title lang="pt">Gente Grande 2</title>
   </programme>
-  <programme start="20230519175000 -0300" stop="20230519200500 -0300" channel="AMC">
+  <programme start="20230519175000 -0300" stop="20230519200500 -0300" channel="AMC HD+">
     <title lang="pt">Ponto Final</title>
   </programme>
-  <programme start="20230519200500 -0300" stop="20230519220000 -0300" channel="AMC">
+  <programme start="20230519200500 -0300" stop="20230519220000 -0300" channel="AMC HD+">
     <title lang="pt">Encontro Explosivo</title>
   </programme>
-  <programme start="20230519220000 -0300" stop="20230519234500 -0300" channel="AMC">
+  <programme start="20230519220000 -0300" stop="20230519234500 -0300" channel="AMC HD+">
     <title lang="pt">As Trapaceiras</title>
   </programme>
-  <programme start="20230519234500 -0300" stop="20230520012500 -0300" channel="AMC">
+  <programme start="20230519234500 -0300" stop="20230520012500 -0300" channel="AMC HD+">
     <title lang="pt">O Paizão</title>
   </programme>
 </tv>
