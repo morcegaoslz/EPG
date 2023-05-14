@@ -10,6 +10,11 @@
     <icon src="https://i.meuguia.tv/logos/new/mgm.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/apl.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20230513222700 -0300" stop="20230513225000 -0300" channel="Warner Channel HD+">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
@@ -1128,5 +1133,515 @@
   </programme>
   <programme start="20230519234500 -0300" stop="20230520012500 -0300" channel="AMC HD+">
     <title lang="pt">O Paizão</title>
+  </programme>
+  <programme start="20230513224100 -0300" stop="20230513233900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20230513233900 -0300" stop="20230514003700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20230514003700 -0300" stop="20230514012500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230514012500 -0300" stop="20230514021600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230514021600 -0300" stop="20230514030700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230514030700 -0300" stop="20230514035800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20230514035800 -0300" stop="20230514044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20230514044700 -0300" stop="20230514053800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20230514053800 -0300" stop="20230514060000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230514060000 -0300" stop="20230514062800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230514062800 -0300" stop="20230514071800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20230514071800 -0300" stop="20230514080800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20230514080800 -0300" stop="20230514090200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20230514090200 -0300" stop="20230514100000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20230514100000 -0300" stop="20230514110200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20230514110200 -0300" stop="20230514120200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20230514120200 -0300" stop="20230514130400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20230514130400 -0300" stop="20230514140600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Terra até o Pescoço</title>
+  </programme>
+  <programme start="20230514140600 -0300" stop="20230514150500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230514150500 -0300" stop="20230514160400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230514160400 -0300" stop="20230514170300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pets Exóticos</title>
+  </programme>
+  <programme start="20230514170300 -0300" stop="20230514180200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20230514180200 -0300" stop="20230514190100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">África Selvagem: Rios</title>
+  </programme>
+  <programme start="20230514190100 -0300" stop="20230514195600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Lei da Sobrevivência</title>
+  </programme>
+  <programme start="20230514195600 -0300" stop="20230514205100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Isca Humana</title>
+  </programme>
+  <programme start="20230514205100 -0300" stop="20230514214600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na África do Sul</title>
+  </programme>
+  <programme start="20230514214600 -0300" stop="20230514224100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Dentro de Wild Frank</title>
+  </programme>
+  <programme start="20230514224100 -0300" stop="20230514233900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no Sudeste Asiático</title>
+  </programme>
+  <programme start="20230514233900 -0300" stop="20230515003700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20230515003700 -0300" stop="20230515012500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230515012500 -0300" stop="20230515021600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230515021600 -0300" stop="20230515030700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230515030700 -0300" stop="20230515035800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20230515035800 -0300" stop="20230515044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20230515044700 -0300" stop="20230515053800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20230515053800 -0300" stop="20230515060000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230515060000 -0300" stop="20230515062800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20230515062800 -0300" stop="20230515071800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230515071800 -0300" stop="20230515080800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230515080800 -0300" stop="20230515090200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230515090200 -0300" stop="20230515100000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230515100000 -0300" stop="20230515110200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230515110200 -0300" stop="20230515120200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230515120200 -0300" stop="20230515130200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230515130200 -0300" stop="20230515140400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Lenda do Tubarão Gigante</title>
+  </programme>
+  <programme start="20230515140400 -0300" stop="20230515150600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20230515150600 -0300" stop="20230515153700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230515153700 -0300" stop="20230515160800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230515160800 -0300" stop="20230515171000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230515171000 -0300" stop="20230515181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230515181000 -0300" stop="20230515191000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+  </programme>
+  <programme start="20230515191000 -0300" stop="20230515200500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230515200500 -0300" stop="20230515210000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230515210000 -0300" stop="20230515215500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20230515215500 -0300" stop="20230515225000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20230515225000 -0300" stop="20230515234800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Desvendando os Oceanos com Jeremy Wade</title>
+  </programme>
+  <programme start="20230515234800 -0300" stop="20230516004600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+  </programme>
+  <programme start="20230516004600 -0300" stop="20230516013400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230516013400 -0300" stop="20230516022500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230516022500 -0300" stop="20230516031200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230516031200 -0300" stop="20230516040300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20230516040300 -0300" stop="20230516044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20230516044700 -0300" stop="20230516053800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20230516053800 -0300" stop="20230516060000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Mistérios da Natureza</title>
+  </programme>
+  <programme start="20230516060000 -0300" stop="20230516062800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20230516062800 -0300" stop="20230516071800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230516071800 -0300" stop="20230516080800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230516080800 -0300" stop="20230516090200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230516090200 -0300" stop="20230516100000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230516100000 -0300" stop="20230516110200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230516110200 -0300" stop="20230516120200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230516120200 -0300" stop="20230516130200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230516130200 -0300" stop="20230516140400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">SharkCam: Melhores Momentos</title>
+  </programme>
+  <programme start="20230516140400 -0300" stop="20230516150600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20230516150600 -0300" stop="20230516153700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230516153700 -0300" stop="20230516160800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230516160800 -0300" stop="20230516171000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230516171000 -0300" stop="20230516181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230516181000 -0300" stop="20230516184000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20230516184000 -0300" stop="20230516191000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20230516191000 -0300" stop="20230516200500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230516200500 -0300" stop="20230516210000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230516210000 -0300" stop="20230516215500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230516215500 -0300" stop="20230516225000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230516225000 -0300" stop="20230516234800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Sobrevivendo ao Rio Sem Fim</title>
+  </programme>
+  <programme start="20230516234800 -0300" stop="20230517004600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20230517004600 -0300" stop="20230517013400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230517013400 -0300" stop="20230517022500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230517022500 -0300" stop="20230517031200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230517031200 -0300" stop="20230517040300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20230517040300 -0300" stop="20230517044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20230517044700 -0300" stop="20230517053800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20230517053800 -0300" stop="20230517060000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Mistérios da Natureza</title>
+  </programme>
+  <programme start="20230517060000 -0300" stop="20230517062800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20230517062800 -0300" stop="20230517071800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230517071800 -0300" stop="20230517080800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230517080800 -0300" stop="20230517090200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230517090200 -0300" stop="20230517100000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230517100000 -0300" stop="20230517110200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230517110200 -0300" stop="20230517120200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230517120200 -0300" stop="20230517130200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230517130200 -0300" stop="20230517140400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Tubarões Pré-históricos</title>
+  </programme>
+  <programme start="20230517140400 -0300" stop="20230517150600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20230517150600 -0300" stop="20230517153700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230517153700 -0300" stop="20230517160800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230517160800 -0300" stop="20230517171000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido no México</title>
+  </programme>
+  <programme start="20230517171000 -0300" stop="20230517181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230517181000 -0300" stop="20230517191000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+  </programme>
+  <programme start="20230517191000 -0300" stop="20230517200500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230517200500 -0300" stop="20230517210000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230517210000 -0300" stop="20230517215500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">No Rastro do Pé-Grande</title>
+  </programme>
+  <programme start="20230517215500 -0300" stop="20230517234800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Ilha Feroz</title>
+  </programme>
+  <programme start="20230517234800 -0300" stop="20230518004600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Criaturas Misteriosas Com Forrest Galante</title>
+  </programme>
+  <programme start="20230518004600 -0300" stop="20230518013400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230518013400 -0300" stop="20230518022500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230518022500 -0300" stop="20230518031200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230518031200 -0300" stop="20230518040300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20230518040300 -0300" stop="20230518044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20230518044700 -0300" stop="20230518053800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20230518053800 -0300" stop="20230518060000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Mistérios da Natureza</title>
+  </programme>
+  <programme start="20230518060000 -0300" stop="20230518062800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20230518062800 -0300" stop="20230518071800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230518071800 -0300" stop="20230518080800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230518080800 -0300" stop="20230518090200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230518090200 -0300" stop="20230518100000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230518100000 -0300" stop="20230518110200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230518110200 -0300" stop="20230518120200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230518120200 -0300" stop="20230518130200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230518130200 -0300" stop="20230518140400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Tubarões Pré-históricos: Grandes Descobertas</title>
+  </programme>
+  <programme start="20230518140400 -0300" stop="20230518150600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20230518150600 -0300" stop="20230518153700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230518153700 -0300" stop="20230518160800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230518160800 -0300" stop="20230518171000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230518171000 -0300" stop="20230518181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230518181000 -0300" stop="20230518184000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20230518184000 -0300" stop="20230518191000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">S.O.S. Animal</title>
+  </programme>
+  <programme start="20230518191000 -0300" stop="20230518200500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230518200500 -0300" stop="20230518210000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230518210000 -0300" stop="20230518215500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">África Selvagem: Rios</title>
+  </programme>
+  <programme start="20230518215500 -0300" stop="20230518225000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Patagônia Extraordinária</title>
+  </programme>
+  <programme start="20230518225000 -0300" stop="20230518234800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Os Reis da Selva</title>
+  </programme>
+  <programme start="20230518234800 -0300" stop="20230519004600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Os 7 Pecados Animais</title>
+  </programme>
+  <programme start="20230519004600 -0300" stop="20230519013400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230519013400 -0300" stop="20230519022500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230519022500 -0300" stop="20230519031200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230519031200 -0300" stop="20230519040300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20230519040300 -0300" stop="20230519044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20230519044700 -0300" stop="20230519053800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20230519053800 -0300" stop="20230519060000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Mistérios da Natureza</title>
+  </programme>
+  <programme start="20230519060000 -0300" stop="20230519062800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20230519062800 -0300" stop="20230519071800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230519071800 -0300" stop="20230519080800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20230519080800 -0300" stop="20230519090200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230519090200 -0300" stop="20230519100000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230519100000 -0300" stop="20230519110200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230519110200 -0300" stop="20230519120200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230519120200 -0300" stop="20230519130200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230519130200 -0300" stop="20230519140400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Tubarões Vulcânicos</title>
+  </programme>
+  <programme start="20230519140400 -0300" stop="20230519150600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20230519150600 -0300" stop="20230519153700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20230519153700 -0300" stop="20230519160800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20230519160800 -0300" stop="20230519171000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230519171000 -0300" stop="20230519181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Califórnia</title>
+  </programme>
+  <programme start="20230519181000 -0300" stop="20230519191000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Nova Zelândia Selvagem</title>
+  </programme>
+  <programme start="20230519191000 -0300" stop="20230519200500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230519200500 -0300" stop="20230519210000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20230519210000 -0300" stop="20230519215500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20230519215500 -0300" stop="20230519225000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+  </programme>
+  <programme start="20230519225000 -0300" stop="20230519234800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Parasitas Assassinos</title>
+  </programme>
+  <programme start="20230519234800 -0300" stop="20230520004600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
   </programme>
 </tv>
