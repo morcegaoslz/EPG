@@ -2,13 +2,794 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Warner Channel HD+">
     <display-name lang="pt">Warner Channel HD+</display-name>
-    <url>http://www.sky.com.br</url>
+    <icon src="https://i.meuguia.tv/logos/new/wbt.png" />
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="AMC HD+">
     <display-name lang="pt">AMC HD+</display-name>
     <icon src="https://i.meuguia.tv/logos/new/mgm.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
+  <programme start="20230513222700 -0300" stop="20230513225000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230513225000 -0300" stop="20230513231400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230513231400 -0300" stop="20230513234000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230513234000 -0300" stop="20230514013000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+  </programme>
+  <programme start="20230514013000 -0300" stop="20230514035400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Homem-Aranha: Longe de Casa</title>
+  </programme>
+  <programme start="20230514035400 -0300" stop="20230514060000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Inferno</title>
+  </programme>
+  <programme start="20230514060000 -0300" stop="20230514062200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514062200 -0300" stop="20230514064500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514064500 -0300" stop="20230514070600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514070600 -0300" stop="20230514072800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514072800 -0300" stop="20230514075000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514075000 -0300" stop="20230514090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230514090000 -0300" stop="20230514094300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230514094300 -0300" stop="20230514094300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">O Código da Vinci</title>
+  </programme>
+  <programme start="20230514094300 -0300" stop="20230514122800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">O Código da Vinci</title>
+  </programme>
+  <programme start="20230514122800 -0300" stop="20230514145200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Anjos e Demônios</title>
+  </programme>
+  <programme start="20230514145200 -0300" stop="20230514151900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514151900 -0300" stop="20230514154100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514154100 -0300" stop="20230514160400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514160400 -0300" stop="20230514163000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514163000 -0300" stop="20230514165400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514165400 -0300" stop="20230514171900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514171900 -0300" stop="20230514192000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+  </programme>
+  <programme start="20230514192000 -0300" stop="20230514215200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Homem-Aranha: Longe de Casa</title>
+  </programme>
+  <programme start="20230514215200 -0300" stop="20230514221500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230514221500 -0300" stop="20230514223500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230514223500 -0300" stop="20230514230000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230514230000 -0300" stop="20230514232500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514232500 -0300" stop="20230514235000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230514235000 -0300" stop="20230515001600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515001600 -0300" stop="20230515003900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515003900 -0300" stop="20230515010400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515010400 -0300" stop="20230515013000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515013000 -0300" stop="20230515033500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Além da Morte</title>
+  </programme>
+  <programme start="20230515033500 -0300" stop="20230515040000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515040000 -0300" stop="20230515042500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515042500 -0300" stop="20230515045100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515045100 -0300" stop="20230515051200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515051200 -0300" stop="20230515053300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515053300 -0300" stop="20230515055600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515055600 -0300" stop="20230515061900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515061900 -0300" stop="20230515064200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515064200 -0300" stop="20230515070500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515070500 -0300" stop="20230515075000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230515075000 -0300" stop="20230515090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230515090000 -0300" stop="20230515090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230515090000 -0300" stop="20230515101500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230515101500 -0300" stop="20230515103800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Boruto: Naruto Next Generations</title>
+  </programme>
+  <programme start="20230515103800 -0300" stop="20230515110300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20230515110300 -0300" stop="20230515112900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230515112900 -0300" stop="20230515115300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515115300 -0300" stop="20230515121700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515121700 -0300" stop="20230515124000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515124000 -0300" stop="20230515130200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515130200 -0300" stop="20230515135000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230515135000 -0300" stop="20230515143500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230515143500 -0300" stop="20230515145900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515145900 -0300" stop="20230515152300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515152300 -0300" stop="20230515154700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515154700 -0300" stop="20230515160900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515160900 -0300" stop="20230515163200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515163200 -0300" stop="20230515165400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515165400 -0300" stop="20230515171900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515171900 -0300" stop="20230515174300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515174300 -0300" stop="20230515180700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515180700 -0300" stop="20230515183200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230515183200 -0300" stop="20230515185900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230515185900 -0300" stop="20230515192600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230515192600 -0300" stop="20230515201100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230515201100 -0300" stop="20230515210000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230515210000 -0300" stop="20230515223600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">É Fada</title>
+  </programme>
+  <programme start="20230515223600 -0300" stop="20230515230600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Mal Me Quer</title>
+  </programme>
+  <programme start="20230515230600 -0300" stop="20230515233100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515233100 -0300" stop="20230515235600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230515235600 -0300" stop="20230516002000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516002000 -0300" stop="20230516004200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516004200 -0300" stop="20230516010600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516010600 -0300" stop="20230516013000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516013000 -0300" stop="20230516015300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Young Sheldon</title>
+  </programme>
+  <programme start="20230516015300 -0300" stop="20230516024300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Hora Hbo Max</title>
+  </programme>
+  <programme start="20230516024300 -0300" stop="20230516030600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516030600 -0300" stop="20230516033200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516033200 -0300" stop="20230516035700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516035700 -0300" stop="20230516042300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516042300 -0300" stop="20230516044900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516044900 -0300" stop="20230516050900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516050900 -0300" stop="20230516053100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516053100 -0300" stop="20230516055300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516055300 -0300" stop="20230516061600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516061600 -0300" stop="20230516064000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516064000 -0300" stop="20230516072500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230516072500 -0300" stop="20230516081000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230516081000 -0300" stop="20230516090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230516090000 -0300" stop="20230516090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230516090000 -0300" stop="20230516095700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230516095700 -0300" stop="20230516102300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Boruto: Naruto Next Generations</title>
+  </programme>
+  <programme start="20230516102300 -0300" stop="20230516104900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20230516104900 -0300" stop="20230516111600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230516111600 -0300" stop="20230516113800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516113800 -0300" stop="20230516120000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516120000 -0300" stop="20230516122400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516122400 -0300" stop="20230516124700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516124700 -0300" stop="20230516133200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230516133200 -0300" stop="20230516142000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230516142000 -0300" stop="20230516144400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516144400 -0300" stop="20230516150600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516150600 -0300" stop="20230516152900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516152900 -0300" stop="20230516155300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516155300 -0300" stop="20230516161800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516161800 -0300" stop="20230516164100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516164100 -0300" stop="20230516170300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516170300 -0300" stop="20230516172800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516172800 -0300" stop="20230516175300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516175300 -0300" stop="20230516181700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230516181700 -0300" stop="20230516184400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230516184400 -0300" stop="20230516191000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230516191000 -0300" stop="20230516195800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230516195800 -0300" stop="20230516204800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230516204800 -0300" stop="20230516225800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Kong: A Ilha da Caveira</title>
+  </programme>
+  <programme start="20230516225800 -0300" stop="20230516232400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516232400 -0300" stop="20230516234900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230516234900 -0300" stop="20230517001500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517001500 -0300" stop="20230517003900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517003900 -0300" stop="20230517010400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517010400 -0300" stop="20230517013000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517013000 -0300" stop="20230517022100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Os Winchesters</title>
+  </programme>
+  <programme start="20230517022100 -0300" stop="20230517024100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517024100 -0300" stop="20230517030700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517030700 -0300" stop="20230517033200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517033200 -0300" stop="20230517035700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517035700 -0300" stop="20230517042200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517042200 -0300" stop="20230517044600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517044600 -0300" stop="20230517050900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517050900 -0300" stop="20230517053100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517053100 -0300" stop="20230517055400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517055400 -0300" stop="20230517061600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517061600 -0300" stop="20230517070100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230517070100 -0300" stop="20230517074600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230517074600 -0300" stop="20230517090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230517090000 -0300" stop="20230517090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230517090000 -0300" stop="20230517100600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230517100600 -0300" stop="20230517103100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Boruto: Naruto Next Generations</title>
+  </programme>
+  <programme start="20230517103100 -0300" stop="20230517105600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20230517105600 -0300" stop="20230517112200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230517112200 -0300" stop="20230517114700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517114700 -0300" stop="20230517121200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517121200 -0300" stop="20230517123600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517123600 -0300" stop="20230517130000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517130000 -0300" stop="20230517134800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230517134800 -0300" stop="20230517143400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230517143400 -0300" stop="20230517145500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517145500 -0300" stop="20230517151800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517151800 -0300" stop="20230517154300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517154300 -0300" stop="20230517160700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517160700 -0300" stop="20230517163000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517163000 -0300" stop="20230517165300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517165300 -0300" stop="20230517171900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517171900 -0300" stop="20230517174500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517174500 -0300" stop="20230517180800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517180800 -0300" stop="20230517183200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230517183200 -0300" stop="20230517185900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230517185900 -0300" stop="20230517192600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230517192600 -0300" stop="20230517201600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230517201600 -0300" stop="20230517210200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230517210200 -0300" stop="20230517223300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">E.A.S. - Esquadrão Antissequestro</title>
+  </programme>
+  <programme start="20230517223300 -0300" stop="20230517230800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Mal Me Quer</title>
+  </programme>
+  <programme start="20230517230800 -0300" stop="20230517233000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517233000 -0300" stop="20230517235300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230517235300 -0300" stop="20230518001900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518001900 -0300" stop="20230518004200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518004200 -0300" stop="20230518010500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518010500 -0300" stop="20230518013000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518013000 -0300" stop="20230518022100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Riverdale</title>
+  </programme>
+  <programme start="20230518022100 -0300" stop="20230518024200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518024200 -0300" stop="20230518030600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518030600 -0300" stop="20230518033200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518033200 -0300" stop="20230518035900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518035900 -0300" stop="20230518042300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518042300 -0300" stop="20230518044500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518044500 -0300" stop="20230518050700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518050700 -0300" stop="20230518052800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518052800 -0300" stop="20230518055000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518055000 -0300" stop="20230518061300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518061300 -0300" stop="20230518065800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230518065800 -0300" stop="20230518074600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230518074600 -0300" stop="20230518090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230518090000 -0300" stop="20230518090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230518090000 -0300" stop="20230518094800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">All American</title>
+  </programme>
+  <programme start="20230518094800 -0300" stop="20230518101300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20230518101300 -0300" stop="20230518103800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Boruto: Naruto Next Generations</title>
+  </programme>
+  <programme start="20230518103800 -0300" stop="20230518110400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230518110400 -0300" stop="20230518112800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518112800 -0300" stop="20230518115300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518115300 -0300" stop="20230518121800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518121800 -0300" stop="20230518123900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518123900 -0300" stop="20230518132700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230518132700 -0300" stop="20230518141400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230518141400 -0300" stop="20230518143400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518143400 -0300" stop="20230518145700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518145700 -0300" stop="20230518152000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518152000 -0300" stop="20230518154300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518154300 -0300" stop="20230518160500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518160500 -0300" stop="20230518163000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518163000 -0300" stop="20230518165500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518165500 -0300" stop="20230518172100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518172100 -0300" stop="20230518174400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518174400 -0300" stop="20230518180800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230518180800 -0300" stop="20230518183500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230518183500 -0300" stop="20230518190200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230518190200 -0300" stop="20230518195200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230518195200 -0300" stop="20230518203800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230518203800 -0300" stop="20230518231200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Jack Reacher: O Último Tiro</title>
+  </programme>
+  <programme start="20230518231200 -0300" stop="20230518233400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518233400 -0300" stop="20230518235800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230518235800 -0300" stop="20230519002100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519002100 -0300" stop="20230519004200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519004200 -0300" stop="20230519010500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519010500 -0300" stop="20230519013000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519013000 -0300" stop="20230519022100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Flash</title>
+  </programme>
+  <programme start="20230519022100 -0300" stop="20230519024200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519024200 -0300" stop="20230519030600 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519030600 -0300" stop="20230519033200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519033200 -0300" stop="20230519035800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519035800 -0300" stop="20230519042200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519042200 -0300" stop="20230519044500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519044500 -0300" stop="20230519050500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519050500 -0300" stop="20230519052900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519052900 -0300" stop="20230519055000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519055000 -0300" stop="20230519061300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519061300 -0300" stop="20230519065900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230519065900 -0300" stop="20230519074300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230519074300 -0300" stop="20230519090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230519090000 -0300" stop="20230519090000 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230519090000 -0300" stop="20230519101400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Search Party</title>
+  </programme>
+  <programme start="20230519101400 -0300" stop="20230519103700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20230519103700 -0300" stop="20230519110200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Boruto: Naruto Next Generations</title>
+  </programme>
+  <programme start="20230519110200 -0300" stop="20230519112800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230519112800 -0300" stop="20230519115300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519115300 -0300" stop="20230519121800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519121800 -0300" stop="20230519124100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519124100 -0300" stop="20230519130400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519130400 -0300" stop="20230519135300 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230519135300 -0300" stop="20230519143800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230519143800 -0300" stop="20230519150100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519150100 -0300" stop="20230519152500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519152500 -0300" stop="20230519154900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519154900 -0300" stop="20230519161400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519161400 -0300" stop="20230519163700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519163700 -0300" stop="20230519170100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519170100 -0300" stop="20230519172700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519172700 -0300" stop="20230519175200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519175200 -0300" stop="20230519181800 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519181800 -0300" stop="20230519184200 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Two and a Half Men</title>
+  </programme>
+  <programme start="20230519184200 -0300" stop="20230519190700 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230519190700 -0300" stop="20230519193400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Nanny</title>
+  </programme>
+  <programme start="20230519193400 -0300" stop="20230519202500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230519202500 -0300" stop="20230519211100 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Supernatural</title>
+  </programme>
+  <programme start="20230519211100 -0300" stop="20230519230400 -0300" channel="Warner Channel HD+">
+    <title lang="pt">Gente Grande</title>
+  </programme>
+  <programme start="20230519230400 -0300" stop="20230519232900 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
+  <programme start="20230519232900 -0300" stop="20230519235500 -0300" channel="Warner Channel HD+">
+    <title lang="pt">The Big Bang Theory</title>
+  </programme>
   <programme start="20230513220000 -0300" stop="20230514000000 -0300" channel="AMC HD+">
     <title lang="pt">Esta é a Sua Morte</title>
   </programme>
