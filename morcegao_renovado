@@ -3,32 +3,18 @@
 http://
 
 #EXTM3U url-tvg=""
-#EXTINF:-1,A FAZENDA CAM 1
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-Xzqn72ue60SVKZe6Ha5fQCs
-#EXTINF:-1,A FAZENDA CAM 2
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X-ekRvzv0XF0l57WZ2MHJRo
-#EXTINF:-1,A FAZENDA CAM 3
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X0d9KGwwy67czzrcMleUOFs
-#EXTINF:-1,A FAZENDA CAM 4
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-XyxZrkJKYTBHJHFenqZ6u6E
-#EXTINF:-1,A FAZENDA CAM 5
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X2Aca6ap7sdd3I0roVm14Us
-#EXTINF:-1,A FAZENDA CAM 6
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X_8id0_X_6AbFAckTtgBGFI
-#EXTINF:-1,A FAZENDA CAM 7
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X-rMItWBUH0M79sHiRwvzrY
-#EXTINF:-1,A FAZENDA CAM 8
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X00ebplbEOl75q3oIsPW-yA
-#EXTINF:-1,A FAZENDA PRINCIPAL
-http://cdn.contentgftp.xyz:80/play/bQ_aAvglV40nJbgV0k9-X8wuLn4LyxCaB2fOF7ExdKc
-#EXTINF:-1,A GRANDE CONQUISTA 1 HD
-http://cdn1.listaflix.xyz:80/gracinha1/gracinha1/449279
-#EXTINF:-1,A GRANDE CONQUISTA 2 HD
-http://cdn1.listaflix.xyz:80/gracinha1/gracinha1/449280
-#EXTINF:-1,A GRANDE CONQUISTA 3 HD
-http://cdn1.listaflix.xyz:80/gracinha1/gracinha1/449281
-#EXTINF:-1,A GRANDE CONQUISTA 4 HD
-http://cdn1.listaflix.xyz:80/gracinha1/gracinha1/449282
+#EXTINF:-1,A Fazenda 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98619.ts
+#EXTINF:-1,A Fazenda 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98620.ts
+#EXTINF:-1,A Fazenda 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98621.ts
+#EXTINF:-1,A Fazenda 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/105731.ts
+#EXTINF:-1,A Fazenda 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/105732.ts
+#EXTINF:-1,A Fazenda 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98618.ts
 #EXTINF:-1,UFC TV 01
 http://conexaoonline.top:80/IVONE123/IVONE321/289465
 #EXTINF:-1,UFC TV 02
