@@ -3,6 +3,8 @@
 http://
 
 #EXTM3U url-tvg=""
+#EXTINF:-1,A Fazenda Principal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98618.ts
 #EXTINF:-1,A Fazenda 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98619.ts
 #EXTINF:-1,A Fazenda 3 FHD
@@ -13,8 +15,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morceg
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/105731.ts
 #EXTINF:-1,A Fazenda 6 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/105732.ts
-#EXTINF:-1,A Fazenda 15 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/98618.ts
 #EXTINF:-1,UFC TV 01
 http://conexaoonline.top:80/IVONE123/IVONE321/289465
 #EXTINF:-1,UFC TV 02
