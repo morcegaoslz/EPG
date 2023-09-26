@@ -15,6 +15,14 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morceg
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/105731.ts
 #EXTINF:-1,A Fazenda 6 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_morcegão_slz[/COLOR]&maxbitrate=0&&Buffer=20191129153332&url=http://esrv.cc:80/ITAlo7575/Vo04R/105732.ts
+#EXTINF:-1,A FAZENDA 15 CAM 01
+http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90731
+#EXTINF:-1,A FAZENDA 15 CAM 02
+http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90947
+#EXTINF:-1,A FAZENDA 15 CAM 03
+http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90948
+#EXTINF:-1,A FAZENDA 15 CAM 04
+http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90949
 #EXTINF:-1,UFC TV 01
 http://conexaoonline.top:80/IVONE123/IVONE321/289465
 #EXTINF:-1,UFC TV 02
