@@ -3,74 +3,24 @@
 http://
 
 #EXTM3U url-tvg=""
-#EXTINF:-1,A FAZENDA 1 HD
-http://kplay.red:80/247406/650183/911900.ts
-#EXTINF:-1,A FAZENDA 2 HD
-http://kplay.red:80/247406/650183/911901.ts
-#EXTINF:-1,A FAZENDA 3 HD
-http://kplay.red:80/247406/650183/911902.ts
-#EXTINF:-1,A FAZENDA 4 HD
-http://kplay.red:80/247406/650183/911903.ts
-#EXTINF:-1,A FAZENDA 5 HD
-http://kplay.red:80/247406/650183/911904.ts
-#EXTINF:-1,A FAZENDA 6 HD
-http://kplay.red:80/247406/650183/911905.ts
-#EXTINF:-1,A FAZENDA 7 HD
-http://kplay.red:80/247406/650183/911906.ts
-#EXTINF:-1,A FAZENDA 8 HD
-http://kplay.red:80/247406/650183/911907.ts
-#EXTINF:-1,A FAZENDA 15 CAM 01
-http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90731
-#EXTINF:-1,A FAZENDA 15 CAM 02
-http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90947
-#EXTINF:-1,A FAZENDA 15 CAM 03
-http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90948
-#EXTINF:-1,A FAZENDA 15 CAM 04
-http://joao-1-us.mainbkonline.shop:80/nii5jn8d/gz6su0qk/90949
-#EXTINF:-1,A FAZENDA 15 CAM 1 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/944460
-#EXTINF:-1,A FAZENDA 15 CAM 1 | FONTE 1
-http://tv.com.vc:80/ivan13/ivan13/948527
-#EXTINF:-1,A FAZENDA 15 CAM 1 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948528
-#EXTINF:-1,A FAZENDA 15 CAM 1 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/948529
-#EXTINF:-1,A FAZENDA 15 CAM 2 | FONTE 1
-http://tv.com.vc:80/ivan13/ivan13/948530
-#EXTINF:-1,A FAZENDA 15 CAM 2 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948531
-#EXTINF:-1,A FAZENDA 15 CAM 2 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/948532
-#EXTINF:-1,A FAZENDA 15 CAM 3 | FONTE 1
-http://tv.com.vc:80/ivan13/ivan13/948533
-#EXTINF:-1,A FAZENDA 15 CAM 3 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948534
-#EXTINF:-1,A FAZENDA 15 CAM 3 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/948535
-#EXTINF:-1,A FAZENDA 15 CAM 4 | FONTE 1
-http://tv.com.vc:80/ivan13/ivan13/948536
-#EXTINF:-1,A FAZENDA 15 CAM 4 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948537
-#EXTINF:-1,A FAZENDA 15 CAM 4 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/948538
-#EXTINF:-1,A FAZENDA 15 CAM 5 | FONTE 1
-http://tv.com.vc:80/ivan13/ivan13/948539
-#EXTINF:-1,A FAZENDA 15 CAM 5 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948540
-#EXTINF:-1,A FAZENDA 15 CAM 5 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/948541
-#EXTINF:-1,A FAZENDA 15 CAM 6 | FONTE 1
-http://tv.com.vc:80/ivan13/ivan13/948542
-#EXTINF:-1,A FAZENDA 15 CAM 6 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948543
-#EXTINF:-1,A FAZENDA 15 CAM 6 | FONTE 3
-http://tv.com.vc:80/ivan13/ivan13/948544
-#EXTINF:-1,A FAZENDA 15 CAM 7 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948545
-#EXTINF:-1,A FAZENDA 15 CAM 8 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948546
-#EXTINF:-1,A FAZENDA 15 CAM 9 | FONTE 2
-http://tv.com.vc:80/ivan13/ivan13/948547
+#EXTINF:-1,BBB 01 HD
+http://c.strzzi.site:80/12345678/12345678/3721260
+#EXTINF:-1,BBB 02 HD
+http://c.strzzi.site:80/12345678/12345678/3721261
+#EXTINF:-1,BBB MOSAICO
+http://c.strzzi.site:80/12345678/12345678/3721262
+#EXTINF:-1,BBB - 01
+http://c.strzzi.site:80/12345678/12345678/3721263
+#EXTINF:-1,BBB - 02
+http://c.strzzi.site:80/12345678/12345678/3721264
+#EXTINF:-1,BBB - 03
+http://c.strzzi.site:80/12345678/12345678/3721265
+#EXTINF:-1,BBB - 04
+http://c.strzzi.site:80/12345678/12345678/3721266
+#EXTINF:-1,BBB - 05
+http://c.strzzi.site:80/12345678/12345678/3721267
+#EXTINF:-1,BBB - 06
+http://c.strzzi.site:80/12345678/12345678/3721268
 #EXTINF:-1,UFC TV 01
 http://conexaoonline.top:80/IVONE123/IVONE321/289465
 #EXTINF:-1,UFC TV 02
