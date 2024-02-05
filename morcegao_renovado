@@ -1,26 +1,82 @@
 #EXTM3U
 #EXTINF:-1, GLOBO SUDOESTE BAHIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/47695
-#EXTINF:-1,BBB 01 HD
-http://rdns.tv:80/Danilo047/4797001920/331947
-#EXTINF:-1,BBB 02 HD
-http://rdns.tv:80/Danilo047/4797001920/331948
-#EXTINF:-1,BBB 03 HD
-http://rdns.tv:80/Danilo047/4797001920/331949
-#EXTINF:-1,BBB 04 HD
-http://rdns.tv:80/Danilo047/4797001920/331950
-#EXTINF:-1,BBB 05 HD
-http://rdns.tv:80/Danilo047/4797001920/331951
-#EXTINF:-1,BBB 06 HD
-http://rdns.tv:80/Danilo047/4797001920/331952
-#EXTINF:-1,BBB 07 HD
-http://rdns.tv:80/Danilo047/4797001920/331953
-#EXTINF:-1,BBB 08 HD
-http://rdns.tv:80/Danilo047/4797001920/331954
-#EXTINF:-1,BBB 09 HD
-http://rdns.tv:80/Danilo047/4797001920/331955
-#EXTINF:-1,BBB Mosaico
-http://rdns.tv:80/Danilo047/4797001920/331958
+#EXTINF:-1,BBB 24 MOSAICO | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009162
+#EXTINF:-1,BBB 24 MOSAICO | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009163
+#EXTINF:-1,BBB 24 MOSAICO | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009164
+#EXTINF:-1,BBB 24 CÂMERA 01 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009129
+#EXTINF:-1,BBB 24 CÂMERA 01 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009130
+#EXTINF:-1,BBB 24 CÂMERA 01 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009131
+#EXTINF:-1,BBB 24 CÂMERA 02 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009132
+#EXTINF:-1,BBB 24 CÂMERA 02 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009133
+#EXTINF:-1,BBB 24 CÂMERA 02 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009134
+#EXTINF:-1,BBB 24 CÂMERA 03 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009135
+#EXTINF:-1,BBB 24 CÂMERA 03 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009136
+#EXTINF:-1,BBB 24 CÂMERA 03 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009137
+#EXTINF:-1,BBB 24 CÂMERA 04 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009138
+#EXTINF:-1,BBB 24 CÂMERA 04 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009139
+#EXTINF:-1,BBB 24 CÂMERA 04 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009140
+#EXTINF:-1,BBB 24 CÂMERA 05 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009141
+#EXTINF:-1,BBB 24 CÂMERA 05 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009142
+#EXTINF:-1,BBB 24 CÂMERA 05 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009143
+#EXTINF:-1,BBB 24 CÂMERA 06 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009144
+#EXTINF:-1,BBB 24 CÂMERA 06 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009145
+#EXTINF:-1,BBB 24 CÂMERA 06 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009146
+#EXTINF:-1,BBB 24 CÂMERA 07 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009147
+#EXTINF:-1,BBB 24 CÂMERA 07 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009148
+#EXTINF:-1,BBB 24 CÂMERA 07 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009149
+#EXTINF:-1,BBB 24 CÂMERA 08 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009150
+#EXTINF:-1,BBB 24 CÂMERA 08 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009151
+#EXTINF:-1,BBB 24 CÂMERA 08 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009152
+#EXTINF:-1,BBB 24 CÂMERA 09 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009153
+#EXTINF:-1,BBB 24 CÂMERA 09 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009154
+#EXTINF:-1,BBB 24 CÂMERA 09 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009155
+#EXTINF:-1,BBB 24 CÂMERA 10 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009156
+#EXTINF:-1,BBB 24 CÂMERA 10 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009157
+#EXTINF:-1,BBB 24 CÂMERA 10 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009158
+#EXTINF:-1,BBB 24 CÂMERA 11 | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1009159
+#EXTINF:-1,BBB 24 CÂMERA 11 | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009160
+#EXTINF:-1,BBB 24 CÂMERA 11 | FONTE 3
+http://tv.com.vc:80/diogenes1/123456/1009161
+#EXTINF:-1,BBB 24 [AQUECIMENTO] | FONTE 1
+http://tv.com.vc:80/diogenes1/123456/1007813
+#EXTINF:-1,BBB 24 [AQUECIMENTO] | FONTE 2
+http://tv.com.vc:80/diogenes1/123456/1009127
 #EXTINF:-1,A&E (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13848
 #EXTINF:-1,A&E FHD
