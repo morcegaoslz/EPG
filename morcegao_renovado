@@ -1,82 +1,26 @@
 #EXTM3U
-#EXTINF:-1, GLOBO SUDOESTE BAHIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/47695
-#EXTINF:-1,BBB 24 MOSAICO | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009162
-#EXTINF:-1,BBB 24 MOSAICO | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009163
-#EXTINF:-1,BBB 24 MOSAICO | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009164
-#EXTINF:-1,BBB 24 CÂMERA 01 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009129
-#EXTINF:-1,BBB 24 CÂMERA 01 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009130
-#EXTINF:-1,BBB 24 CÂMERA 01 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009131
-#EXTINF:-1,BBB 24 CÂMERA 02 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009132
-#EXTINF:-1,BBB 24 CÂMERA 02 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009133
-#EXTINF:-1,BBB 24 CÂMERA 02 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009134
-#EXTINF:-1,BBB 24 CÂMERA 03 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009135
-#EXTINF:-1,BBB 24 CÂMERA 03 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009136
-#EXTINF:-1,BBB 24 CÂMERA 03 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009137
-#EXTINF:-1,BBB 24 CÂMERA 04 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009138
-#EXTINF:-1,BBB 24 CÂMERA 04 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009139
-#EXTINF:-1,BBB 24 CÂMERA 04 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009140
-#EXTINF:-1,BBB 24 CÂMERA 05 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009141
-#EXTINF:-1,BBB 24 CÂMERA 05 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009142
-#EXTINF:-1,BBB 24 CÂMERA 05 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009143
-#EXTINF:-1,BBB 24 CÂMERA 06 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009144
-#EXTINF:-1,BBB 24 CÂMERA 06 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009145
-#EXTINF:-1,BBB 24 CÂMERA 06 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009146
-#EXTINF:-1,BBB 24 CÂMERA 07 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009147
-#EXTINF:-1,BBB 24 CÂMERA 07 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009148
-#EXTINF:-1,BBB 24 CÂMERA 07 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009149
-#EXTINF:-1,BBB 24 CÂMERA 08 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009150
-#EXTINF:-1,BBB 24 CÂMERA 08 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009151
-#EXTINF:-1,BBB 24 CÂMERA 08 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009152
-#EXTINF:-1,BBB 24 CÂMERA 09 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009153
-#EXTINF:-1,BBB 24 CÂMERA 09 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009154
-#EXTINF:-1,BBB 24 CÂMERA 09 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009155
-#EXTINF:-1,BBB 24 CÂMERA 10 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009156
-#EXTINF:-1,BBB 24 CÂMERA 10 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009157
-#EXTINF:-1,BBB 24 CÂMERA 10 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009158
-#EXTINF:-1,BBB 24 CÂMERA 11 | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1009159
-#EXTINF:-1,BBB 24 CÂMERA 11 | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009160
-#EXTINF:-1,BBB 24 CÂMERA 11 | FONTE 3
-http://tv.com.vc:80/diogenes1/123456/1009161
-#EXTINF:-1,BBB 24 [AQUECIMENTO] | FONTE 1
-http://tv.com.vc:80/diogenes1/123456/1007813
-#EXTINF:-1,BBB 24 [AQUECIMENTO] | FONTE 2
-http://tv.com.vc:80/diogenes1/123456/1009127
+#EXTINF:-1,BBB CAM 1
+http://c4n.fun:80/Nuvens48/N050546sk/1054886.ts
+#EXTINF:-1,BBB CAM 2
+http://c4n.fun:80/Nuvens48/N050546sk/1054887.ts
+#EXTINF:-1,BBB CAM 3
+http://c4n.fun:80/Nuvens48/N050546sk/1054888.ts
+#EXTINF:-1,BBB CAM 4
+http://c4n.fun:80/Nuvens48/N050546sk/1054889.ts
+#EXTINF:-1,BBB CAM 5
+http://c4n.fun:80/Nuvens48/N050546sk/1054890.ts
+#EXTINF:-1,BBB CAM 6
+http://c4n.fun:80/Nuvens48/N050546sk/1054891.ts
+#EXTINF:-1,BBB CAM 7
+http://c4n.fun:80/Nuvens48/N050546sk/1054892.ts
+#EXTINF:-1,BBB CAM 8
+http://c4n.fun:80/Nuvens48/N050546sk/1054893.ts
+#EXTINF:-1,BBB CAM 9
+http://c4n.fun:80/Nuvens48/N050546sk/1054894.ts
+#EXTINF:-1,BBB MOSAICO FHD
+http://c4n.fun:80/Nuvens48/N050546sk/1054901.ts
+#EXTINF:-1,BBB MOSAICO HD
+http://c4n.fun:80/Nuvens48/N050546sk/1054902.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 01
 http://conexaoonline.top:80/3941326027/1222539042/289465.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 02
