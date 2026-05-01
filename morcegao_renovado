@@ -144,10 +144,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/297020.ts
 http://ut.kiwi:80/rogerio55x/24992611250/297021.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="https://up.kiwi/i/dazn.png" group-title="CANAL | DAZN",DAZN 5 HD
 http://ut.kiwi:80/rogerio55x/24992611250/297022.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV GO 1 PPV HD" tvg-logo="https://up.kiwi/i/dgo.png" group-title="CANAL | ESPORTES PPV",DIRECTV GO 1 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/336.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV GO 2 PPV HD" tvg-logo="https://up.kiwi/i/dgo.png" group-title="CANAL | ESPORTES PPV",DIRECTV GO 2 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/337.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 09 HD" tvg-logo="https://up.kiwi/i/disney.plus.png" group-title="CANAL | DISNEY+",DISNEY+ 09 HD
 http://ut.kiwi:80/rogerio55x/24992611250/296998.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 09 HD ALT" tvg-logo="https://up.kiwi/i/disney.plus.png" group-title="CANAL | DISNEY+",DISNEY+ 09 HD ALT
@@ -258,8 +254,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/296559.ts
 http://ut.kiwi:80/rogerio55x/24992611250/296438.ts
 #EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL SD²" tvg-logo="" group-title="CANAL | FILMES & SÉRIES",EUROCHANNEL SD²
 http://ut.kiwi:80/rogerio55x/24992611250/296439.ts
-#EXTINF:-1 tvg-id="" tvg-name="FURACAO TV PPV HD" tvg-logo="https://up.kiwi/i/newfuracao.png" group-title="CANAL | ESPORTES PPV",FURACAO TV PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/526.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP 4K" tvg-logo="https://up.kiwi/i/globo.png" group-title="CANAL | GLOBO SUDESTE",GLOBO SP 4K
 http://ut.kiwi:80/rogerio55x/24992611250/296727.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP UHD" tvg-logo="https://up.kiwi/i/globo.png" group-title="CANAL | GLOBO SUDESTE",GLOBO SP UHD
@@ -308,7 +302,7 @@ http://ut.kiwi:80/rogerio55x/24992611250/296844.ts
 http://ut.kiwi:80/rogerio55x/24992611250/303681.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO MA TV MIRANTE COCAIS FHD" tvg-logo="https://up.kiwi/i/globo.png" group-title="CANAL | GLOBO NORDESTE",GLOBO MA TV MIRANTE COCAIS FHD
 http://ut.kiwi:80/rogerio55x/24992611250/296842.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NACIONAL FHD" tvg-logo="https://up.kiwi/i/globo.png" group-title="CANAL | OUTROS",GLOBO NACIONAL FHD
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NACIONAL FHD" tvg-logo="https://up.kiwi/i/globo.png" group-title="CANAL | SUDESTE",GLOBO NACIONAL FHD
 http://ut.kiwi:80/rogerio55x/24992611250/296856.ts
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="https://up.kiwi/i/globonews.png" group-title="CANAL | NOTÍCIAS",GLOBO NEWS 4K
 http://ut.kiwi:80/rogerio55x/24992611250/299672.ts
@@ -432,14 +426,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/707.ts
 http://ut.kiwi:80/rogerio55x/24992611250/709.ts
 #EXTINF:-1 tvg-id="JovemPan.br" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="https://up.kiwi/i/jp.news.png" group-title="CANAL | NOTÍCIAS",JOVEM PAN NEWS HD²
 http://ut.kiwi:80/rogerio55x/24992611250/296344.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 PPV HD" tvg-logo="https://up.kiwi/i/futsal.png" group-title="CANAL | ESPORTES PPV",LIGA FUTSAL 2 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/715.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 PPV SD" tvg-logo="https://up.kiwi/i/futsal.png" group-title="CANAL | ESPORTES PPV",LIGA FUTSAL 2 PPV SD
-http://ut.kiwi:80/rogerio55x/24992611250/716.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL PPV HD" tvg-logo="https://up.kiwi/i/futsal.png" group-title="CANAL | ESPORTES PPV",LIGA FUTSAL PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/717.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL PPV SD" tvg-logo="https://up.kiwi/i/futsal.png" group-title="CANAL | ESPORTES PPV",LIGA FUTSAL PPV SD
-http://ut.kiwi:80/rogerio55x/24992611250/718.ts
 #EXTINF:-1 tvg-id="" tvg-name="LUTAS DO DIA UFC" tvg-logo="https://w7.pngwing.com/pngs/926/964/png-transparent-google-calendar-computer-icons-agenda-calendar-time-calendar-date-thumbnail.png" group-title="CANAL | AGENDA ESPORTIVA",LUTAS DO DIA UFC
 http://ut.kiwi:80/rogerio55x/24992611250/297024.ts
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="https://up.kiwi/i/megapix.png" group-title="CANAL | FILMES & SÉRIES",MEGAPIX 4K
@@ -456,8 +442,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/296457.ts
 http://ut.kiwi:80/rogerio55x/24992611250/730.ts
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://up.kiwi/i/megapix.png" group-title="CANAL | FILMES & SÉRIES",MEGAPIX SD²
 http://ut.kiwi:80/rogerio55x/24992611250/296440.ts
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX LIVE PPV HD" tvg-logo="https://up.kiwi/i/netflix.png" group-title="CANAL | ESPORTES PPV",NETFLIX LIVE PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/765.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTYNET 01 HD" tvg-logo="https://i.imgur.com/GQo4mxF.png" group-title="CANAL | ESPORTES PPV",SPORTYNET 01 HD
 http://ut.kiwi:80/rogerio55x/24992611250/296530.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTYNET 01 HD ALT" tvg-logo="https://i.imgur.com/GQo4mxF.png" group-title="CANAL | ESPORTES PPV",SPORTYNET 01 HD ALT
@@ -472,36 +456,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/296534.ts
 http://ut.kiwi:80/rogerio55x/24992611250/296535.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTYNET 4 HD" tvg-logo="https://i.imgur.com/GQo4mxF.png" group-title="CANAL | ESPORTES PPV",SPORTYNET 4 HD
 http://ut.kiwi:80/rogerio55x/24992611250/296536.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 1 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 1 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/812.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 2 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/814.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 3 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 3 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/815.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 4 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 4 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/816.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 5 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 5 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/817.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 6 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 6 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/818.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 7 PPV HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES PPV",NSPORTS 7 PPV HD
-http://ut.kiwi:80/rogerio55x/24992611250/819.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS FHD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES",NSPORTS FHD
-http://ut.kiwi:80/rogerio55x/24992611250/296484.ts
-#EXTINF:-1 tvg-id="" tvg-name="NSPORTS HD" tvg-logo="https://up.kiwi/i/nsports.png" group-title="CANAL | ESPORTES",NSPORTS HD
-http://ut.kiwi:80/rogerio55x/24992611250/296485.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265" tvg-logo="https://up.kiwi/i/canal.off.png" group-title="CANAL | ESPORTES",OFF FHD H265
-http://ut.kiwi:80/rogerio55x/24992611250/822.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD²" tvg-logo="https://up.kiwi/i/canal.off.png" group-title="CANAL | ESPORTES",OFF FHD²
-http://ut.kiwi:80/rogerio55x/24992611250/296479.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://up.kiwi/i/canal.off.png" group-title="CANAL | ESPORTES",OFF HD
-http://ut.kiwi:80/rogerio55x/24992611250/824.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD²" tvg-logo="https://up.kiwi/i/canal.off.png" group-title="CANAL | ESPORTES",OFF HD²
-http://ut.kiwi:80/rogerio55x/24992611250/296478.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://up.kiwi/i/canal.off.png" group-title="CANAL | ESPORTES",OFF SD
-http://ut.kiwi:80/rogerio55x/24992611250/826.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD²" tvg-logo="https://up.kiwi/i/canal.off.png" group-title="CANAL | ESPORTES",OFF SD²
-http://ut.kiwi:80/rogerio55x/24992611250/296477.ts
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD H265" tvg-logo="https://up.kiwi/i/paramount.network.png" group-title="CANAL | FILMES & SÉRIES",PARAMOUNT CHANNEL FHD H265
 http://ut.kiwi:80/rogerio55x/24992611250/827.ts
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://up.kiwi/i/paramount.network.png" group-title="CANAL | FILMES & SÉRIES",PARAMOUNT CHANNEL HD
@@ -542,14 +496,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/297015.ts
 http://ut.kiwi:80/rogerio55x/24992611250/297016.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ PLTF 03 FHD" tvg-logo="" group-title="CANAL | PARAMOUNT+",PARAMOUNT+ PLTF 03 FHD
 http://ut.kiwi:80/rogerio55x/24992611250/297017.ts
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV FHD H265" tvg-logo="https://up.kiwi/i/palytv.png" group-title="CANAL | VARIEDADES",PLAY TV FHD H265
-http://ut.kiwi:80/rogerio55x/24992611250/843.ts
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD" tvg-logo="https://up.kiwi/i/palytv.png" group-title="CANAL | VARIEDADES",PLAY TV HD
-http://ut.kiwi:80/rogerio55x/24992611250/844.ts
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="https://up.kiwi/i/palytv.png" group-title="CANAL | VARIEDADES",PLAY TV SD
-http://ut.kiwi:80/rogerio55x/24992611250/845.ts
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD" tvg-logo="https://up.kiwi/i/polishop.tv.png" group-title="CANAL | VARIEDADES",POLISHOP SD
-http://ut.kiwi:80/rogerio55x/24992611250/857.ts
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://up.kiwi/i/premiere.2.png" group-title="CANAL | PREMIERE",PREMIERE CLUBES 4K
 http://ut.kiwi:80/rogerio55x/24992611250/299679.ts
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES UHD" tvg-logo="https://up.kiwi/i/premiere.2.png" group-title="CANAL | PREMIERE",PREMIERE CLUBES UHD
@@ -742,8 +688,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/1201.ts
 http://ut.kiwi:80/rogerio55x/24992611250/1203.ts
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD²" tvg-logo="https://up.kiwi/i/sony.chann.png" group-title="CANAL | FILMES & SÉRIES",SONY HD²
 http://ut.kiwi:80/rogerio55x/24992611250/296382.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES 4K²" tvg-logo="" group-title="CANAL | OUTROS",SONY MOVIES 4K²
-http://ut.kiwi:80/rogerio55x/24992611250/296654.ts
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="https://up.kiwi/i/sony.chann.png" group-title="CANAL | FILMES & SÉRIES",SONY SD
 http://ut.kiwi:80/rogerio55x/24992611250/1205.ts
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD²" tvg-logo="https://up.kiwi/i/sony.chann.png" group-title="CANAL | FILMES & SÉRIES",SONY SD²
@@ -894,8 +838,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/296196.ts
 http://ut.kiwi:80/rogerio55x/24992611250/1290.ts
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://up.kiwi/i/telecine.png" group-title="CANAL | TELECINE",TELECINE TOUCH SD²
 http://ut.kiwi:80/rogerio55x/24992611250/296197.ts
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA FHD" tvg-logo="https://up.kiwi/i/terra.viva.png" group-title="CANAL | ABERTOS",TERRA VIVA FHD
-http://ut.kiwi:80/rogerio55x/24992611250/1292.ts
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="https://up.kiwi/i/tnt.png" group-title="CANAL | FILMES & SÉRIES",TNT 4K
 http://ut.kiwi:80/rogerio55x/24992611250/299685.ts
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://up.kiwi/i/tnt.png" group-title="CANAL | FILMES & SÉRIES",TNT FHD H265
@@ -938,12 +880,6 @@ http://ut.kiwi:80/rogerio55x/24992611250/300379.ts
 http://ut.kiwi:80/rogerio55x/24992611250/1561.ts
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="https://up.kiwi/i/universal.tv.png" group-title="CANAL | FILMES & SÉRIES",UNIVERSAL TV 4K
 http://ut.kiwi:80/rogerio55x/24992611250/299687.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE²" tvg-logo="" group-title="CANAL | OUTROS",UNIVERSAL PREMIERE²
-http://ut.kiwi:80/rogerio55x/24992611250/296650.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE²" tvg-logo="" group-title="CANAL | OUTROS",UNIVERSAL PREMIERE²
-http://ut.kiwi:80/rogerio55x/24992611250/296651.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE²" tvg-logo="" group-title="CANAL | OUTROS",UNIVERSAL PREMIERE²
-http://ut.kiwi:80/rogerio55x/24992611250/296652.ts
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="https://up.kiwi/i/universal.tv.png" group-title="CANAL | FILMES & SÉRIES",UNIVERSAL TV 4K
 http://ut.kiwi:80/rogerio55x/24992611250/1565.ts
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD²" tvg-logo="https://up.kiwi/i/universal.tv.png" group-title="CANAL | FILMES & SÉRIES",UNIVERSAL TV FHD²
