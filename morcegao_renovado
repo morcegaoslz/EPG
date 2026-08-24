@@ -1,368 +1,368 @@
 #EXTM3U x-tvg-url="http://ztpppyfj.extatlas.com:88/xmltv.php?username=4021376495&password=2501002631"
 #EXT-X-SESSION-DATA:DATA-ID="com.xc_vm.2_1_1"
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| GENERAL◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| GENERAL◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| GENERAL◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| GENERAL◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131613.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="BR| GLOBO BRASILIA HD" tvg-logo="https://lo1.in/BR/glbbr.png" group-title="►AM | BRAZIL",BR| GLOBO BRASILIA HD
+#EXTINF:-1 tvg-id="globo.br" tvg-name="BR| GLOBO BRASILIA HD" tvg-logo="https://lo1.in/BR/glbbr.png" group-title="",BR| GLOBO BRASILIA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30195.ts
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="BR| GLOBO RJ HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO RJ HD
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="BR| GLOBO RJ HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO RJ HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30205.ts
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="►AM | BRAZIL",BR| GLOBO SP HD
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="",BR| GLOBO SP HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84349.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO MINAS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO MINAS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO MINAS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO MINAS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30199.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO NORDESTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO NORDESTE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO NORDESTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO NORDESTE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30201.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO RBS PORTO ALEGRE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO RBS PORTO ALEGRE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30202.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV SERGIPE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO TV SERGIPE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV SERGIPE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO TV SERGIPE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30209.ts
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="BR| RECORD HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="►AM | BRAZIL",BR| RECORD HD
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="BR| RECORD HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="",BR| RECORD HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30269.ts
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR| WOOHOO HD" tvg-logo="https://lo1.in/BR/woho.png" group-title="►AM | BRAZIL",BR| WOOHOO HD
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR| WOOHOO HD" tvg-logo="https://lo1.in/BR/woho.png" group-title="",BR| WOOHOO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30276.ts
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA HD" tvg-logo="https://lo1.in/BR/vivah.png" group-title="►AM | BRAZIL",BR| VIVA HD
+#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA HD" tvg-logo="https://lo1.in/BR/vivah.png" group-title="",BR| VIVA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84353.ts
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="BR| E! HD" tvg-logo="https://lo1.in/BR/e.png" group-title="►AM | BRAZIL",BR| E! HD
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="BR| E! HD" tvg-logo="https://lo1.in/BR/e.png" group-title="",BR| E! HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30179.ts
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR| LIFETIME HD" tvg-logo="https://lo1.in/BR/lftm.png" group-title="►AM | BRAZIL",BR| LIFETIME HD
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR| LIFETIME HD" tvg-logo="https://lo1.in/BR/lftm.png" group-title="",BR| LIFETIME HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84354.ts
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="BR| FOOD NETWORK HD" tvg-logo="https://lo1.in/BR/fodnet.png" group-title="►AM | BRAZIL",BR| FOOD NETWORK HD
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="BR| FOOD NETWORK HD" tvg-logo="https://lo1.in/BR/fodnet.png" group-title="",BR| FOOD NETWORK HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31242.ts
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR| GLOOB HD" tvg-logo="https://lo1.in/BR/glb.png" group-title="►AM | BRAZIL",BR| GLOOB HD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR| GLOOB HD" tvg-logo="https://lo1.in/BR/glb.png" group-title="",BR| GLOOB HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30214.ts
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR| GNT HD" tvg-logo="https://lo1.in/BR/gnt.png" group-title="►AM | BRAZIL",BR| GNT HD
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR| GNT HD" tvg-logo="https://lo1.in/BR/gnt.png" group-title="",BR| GNT HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84355.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBOSAT HD" tvg-logo="https://lo1.in/BR/glbst0.png" group-title="►AM | BRAZIL",BR| GLOBOSAT HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBOSAT HD" tvg-logo="https://lo1.in/BR/glbst0.png" group-title="",BR| GLOBOSAT HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30213.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="BR| CANAL BRASIL HD" tvg-logo="https://lo1.in/BR/cnlbrs.png" group-title="►AM | BRAZIL",BR| CANAL BRASIL HD
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="BR| CANAL BRASIL HD" tvg-logo="https://lo1.in/BR/cnlbrs.png" group-title="",BR| CANAL BRASIL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30158.ts
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="BR| NOVO TEMPO HD" tvg-logo="https://lo1.in/BR/novotem.png" group-title="►AM | BRAZIL",BR| NOVO TEMPO HD
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="BR| NOVO TEMPO HD" tvg-logo="https://lo1.in/BR/novotem.png" group-title="",BR| NOVO TEMPO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84356.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="►AM | BRAZIL",BR| SBT HD
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="",BR| SBT HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30244.ts
-#EXTINF:-1 tvg-id="curta.br" tvg-name="BR| CURTA! HD" tvg-logo="https://lo1.in/BR/cl7.png" group-title="►AM | BRAZIL",BR| CURTA! HD
+#EXTINF:-1 tvg-id="curta.br" tvg-name="BR| CURTA! HD" tvg-logo="https://lo1.in/BR/cl7.png" group-title="",BR| CURTA! HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30168.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| NEWS◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| NEWS◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| NEWS◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| NEWS◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131614.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO NEWS HD
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO NEWS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30200.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="►AM | BRAZIL",BR| RECORD NEWS HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="",BR| RECORD NEWS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30238.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="►AM | BRAZIL",BR| BAND NEWS HD
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="",BR| BAND NEWS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30154.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| KIDS◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| KIDS◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| KIDS◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| KIDS◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131615.ts
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BR| BABY TV HD" tvg-logo="https://lo1.in/BR/bby.png" group-title="►AM | BRAZIL",BR| BABY TV HD
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BR| BABY TV HD" tvg-logo="https://lo1.in/BR/bby.png" group-title="",BR| BABY TV HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30152.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR| BOOMERANG HD" tvg-logo="https://lo1.in/BR/bomer.png" group-title="►AM | BRAZIL",BR| BOOMERANG HD
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR| BOOMERANG HD" tvg-logo="https://lo1.in/BR/bomer.png" group-title="",BR| BOOMERANG HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30157.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOON NETWORK HD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="►AM | BRAZIL",BR| CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOON NETWORK HD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="",BR| CARTOON NETWORK HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30160.ts
-#EXTINF:-1 tvg-id="disney.br" tvg-name="BR| DISNEY CHANNEL HD" tvg-logo="https://lo1.in/BR/dsych.png" group-title="►AM | BRAZIL",BR| DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="disney.br" tvg-name="BR| DISNEY CHANNEL HD" tvg-logo="https://lo1.in/BR/dsych.png" group-title="",BR| DISNEY CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31235.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| DISNEY JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="►AM | BRAZIL",BR| DISNEY JR HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| DISNEY JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="",BR| DISNEY JR HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31237.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| DISNEY XD HD" tvg-logo="https://lo1.in/BR/disxd.png" group-title="►AM | BRAZIL",BR| DISNEY XD HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| DISNEY XD HD" tvg-logo="https://lo1.in/BR/disxd.png" group-title="",BR| DISNEY XD HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31240.ts
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="BR| NICK JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="►AM | BRAZIL",BR| NICK JR HD
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="BR| NICK JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="",BR| NICK JR HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31238.ts
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR| NICKELODEON HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="►AM | BRAZIL",BR| NICKELODEON HD
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR| NICKELODEON HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="",BR| NICKELODEON HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31241.ts
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="BR| TV RA TIM BUM HD" tvg-logo="https://lo1.in/BR/ratim.png" group-title="►AM | BRAZIL",BR| TV RA TIM BUM HD
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="BR| TV RA TIM BUM HD" tvg-logo="https://lo1.in/BR/ratim.png" group-title="",BR| TV RA TIM BUM HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30268.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| MOVIES◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| MOVIES◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| MOVIES◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| MOVIES◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131616.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://lo1.in/BR/hbo.png" group-title="►AM | BRAZIL",BR| HBO HD
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://lo1.in/BR/hbo.png" group-title="",BR| HBO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31215.ts
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://lo1.in/BR/hbo2.png" group-title="►AM | BRAZIL",BR| HBO 2 HD
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://lo1.in/BR/hbo2.png" group-title="",BR| HBO 2 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31216.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY HD" tvg-logo="https://lo1.in/BR/hbofm.png" group-title="►AM | BRAZIL",BR| HBO FAMILY HD
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY HD" tvg-logo="https://lo1.in/BR/hbofm.png" group-title="",BR| HBO FAMILY HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84361.ts
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="BR| HBO PLUS HD" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="►AM | BRAZIL",BR| HBO PLUS HD
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="BR| HBO PLUS HD" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="",BR| HBO PLUS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31217.ts
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="BR| HBO SIGNATURE HD" tvg-logo="https://lo1.in/BR/hbosignat.png" group-title="►AM | BRAZIL",BR| HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="BR| HBO SIGNATURE HD" tvg-logo="https://lo1.in/BR/hbosignat.png" group-title="",BR| HBO SIGNATURE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31230.ts
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 1 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 1 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30234.ts
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 2 HD
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 2 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84365.ts
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 3 HD
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 3 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84366.ts
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 4 HD
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 4 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30235.ts
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 5 HD
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 5 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84367.ts
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 6 HD
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 6 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84368.ts
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="►AM | BRAZIL",BR| PREMIERE 7 HD
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="",BR| PREMIERE 7 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/164085.ts
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM HD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="►AM | BRAZIL",BR| TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM HD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="",BR| TELECINE PREMIUM HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31221.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT HD" tvg-logo="https://lo1.in/BR/tnt.png" group-title="►AM | BRAZIL",BR| TNT HD
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT HD" tvg-logo="https://lo1.in/BR/tnt.png" group-title="",BR| TNT HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31228.ts
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR| TNT SERIES HD" tvg-logo="https://lo1.in/BR/tntser.png" group-title="►AM | BRAZIL",BR| TNT SERIES HD
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR| TNT SERIES HD" tvg-logo="https://lo1.in/BR/tntser.png" group-title="",BR| TNT SERIES HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31223.ts
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="►AM | BRAZIL",BR| TELECINE ACTION HD
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="",BR| TELECINE ACTION HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31218.ts
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT HD" tvg-logo="https://lo1.in/BR/telcu.png" group-title="►AM | BRAZIL",BR| TELECINE CULT HD
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT HD" tvg-logo="https://lo1.in/BR/telcu.png" group-title="",BR| TELECINE CULT HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31229.ts
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN HD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="►AM | BRAZIL",BR| TELECINE FUN HD
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN HD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="",BR| TELECINE FUN HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31219.ts
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA HD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="►AM | BRAZIL",BR| TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA HD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="",BR| TELECINE PIPOCA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31220.ts
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH HD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="►AM | BRAZIL",BR| TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH HD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="",BR| TELECINE TOUCH HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31222.ts
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR| WARNER CHANNEL HD" tvg-logo="https://lo1.in/BR/warnch.png" group-title="►AM | BRAZIL",BR| WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR| WARNER CHANNEL HD" tvg-logo="https://lo1.in/BR/warnch.png" group-title="",BR| WARNER CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84369.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="►AM | BRAZIL",BR| AMC HD
+#EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="",BR| AMC HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30148.ts
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://lo1.in/BR/art.png" group-title="►AM | BRAZIL",BR| ARTE 1 HD
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://lo1.in/BR/art.png" group-title="",BR| ARTE 1 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31226.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="BR| AXN HD" tvg-logo="https://lo1.in/BR/axn.png" group-title="►AM | BRAZIL",BR| AXN HD
+#EXTINF:-1 tvg-id="axn.br" tvg-name="BR| AXN HD" tvg-logo="https://lo1.in/BR/axn.png" group-title="",BR| AXN HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31224.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| BAND CAMPINAS FHD" tvg-logo="https://lo1.in/BR/band.png" group-title="►AM | BRAZIL",BR| BAND CAMPINAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="BR| BAND CAMPINAS FHD" tvg-logo="https://lo1.in/BR/band.png" group-title="",BR| BAND CAMPINAS FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30153.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="►AM | BRAZIL",BR| CINEMAX HD
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="",BR| CINEMAX HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31227.ts
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="BR| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/BR/cmdcnt.png" group-title="►AM | BRAZIL",BR| COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="BR| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/BR/cmdcnt.png" group-title="",BR| COMEDY CENTRAL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30166.ts
-#EXTINF:-1 tvg-id="fx.br" tvg-name="BR| FX HD" tvg-logo="https://lo1.in/BR/fx.png" group-title="►AM | BRAZIL",BR| FX HD
+#EXTINF:-1 tvg-id="fx.br" tvg-name="BR| FX HD" tvg-logo="https://lo1.in/BR/fx.png" group-title="",BR| FX HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84370.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR| MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="►AM | BRAZIL",BR| MEGAPIX HD
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR| MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="",BR| MEGAPIX HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31208.ts
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="BR| MULTISHOW HD" tvg-logo="https://lo1.in/BR/multsh.png" group-title="►AM | BRAZIL",BR| MULTISHOW HD
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="BR| MULTISHOW HD" tvg-logo="https://lo1.in/BR/multsh.png" group-title="",BR| MULTISHOW HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84371.ts
-#EXTINF:-1 tvg-id="off.br" tvg-name="BR| OFF HD" tvg-logo="https://lo1.in/BR/off.png" group-title="►AM | BRAZIL",BR| OFF HD
+#EXTINF:-1 tvg-id="off.br" tvg-name="BR| OFF HD" tvg-logo="https://lo1.in/BR/off.png" group-title="",BR| OFF HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84372.ts
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR| PARAMOUNT CHANNEL HD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="►AM | BRAZIL",BR| PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR| PARAMOUNT CHANNEL HD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="",BR| PARAMOUNT CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30232.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="BR| SONY HD" tvg-logo="https://lo1.in/BR/sny.png" group-title="►AM | BRAZIL",BR| SONY HD
+#EXTINF:-1 tvg-id="sony.br" tvg-name="BR| SONY HD" tvg-logo="https://lo1.in/BR/sny.png" group-title="",BR| SONY HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30247.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="BR| SPACE HD" tvg-logo="https://lo1.in/BR/spc.png" group-title="►AM | BRAZIL",BR| SPACE HD
+#EXTINF:-1 tvg-id="space.br" tvg-name="BR| SPACE HD" tvg-logo="https://lo1.in/BR/spc.png" group-title="",BR| SPACE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97939.ts
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="BR| STUDIO UNIVERSAL HD" tvg-logo="https://lo1.in/BR/STUDIO UNIVERSAL.png" group-title="►AM | BRAZIL",BR| STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="BR| STUDIO UNIVERSAL HD" tvg-logo="https://lo1.in/BR/STUDIO UNIVERSAL.png" group-title="",BR| STUDIO UNIVERSAL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30270.ts
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="BR| SYFY HD" tvg-logo="https://lo1.in/BR/syf.png" group-title="►AM | BRAZIL",BR| SYFY HD
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="BR| SYFY HD" tvg-logo="https://lo1.in/BR/syf.png" group-title="",BR| SYFY HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84373.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TBS HD" tvg-logo="https://lo1.in/BR/tbs.png" group-title="►AM | BRAZIL",BR| TBS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TBS HD" tvg-logo="https://lo1.in/BR/tbs.png" group-title="",BR| TBS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84374.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="BR| TCM HD" tvg-logo="https://lo1.in/BR/tcm.png" group-title="►AM | BRAZIL",BR| TCM HD
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="BR| TCM HD" tvg-logo="https://lo1.in/BR/tcm.png" group-title="",BR| TCM HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30251.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL CHANNEL HD" tvg-logo="https://lo1.in/BR/univch.png" group-title="►AM | BRAZIL",BR| UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL CHANNEL HD" tvg-logo="https://lo1.in/BR/univch.png" group-title="",BR| UNIVERSAL CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30271.ts
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| A&E HD" tvg-logo="https://lo1.in/BR/ane.png" group-title="►AM | BRAZIL",BR| A&E HD
+#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| A&E HD" tvg-logo="https://lo1.in/BR/ane.png" group-title="",BR| A&E HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31225.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| SPORT◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| SPORT◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| SPORT◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| SPORT◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131617.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="►AM | BRAZIL",BR| SPORTV 1 HD
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="",BR| SPORTV 1 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31211.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="►AM | BRAZIL",BR| SPORTV 2 HD
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="",BR| SPORTV 2 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31212.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="►AM | BRAZIL",BR| SPORTV 3 HD
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="",BR| SPORTV 3 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31213.ts
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR| FOX SPORTS HD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="►AM | BRAZIL",BR| FOX SPORTS HD
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR| FOX SPORTS HD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="",BR| FOX SPORTS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30186.ts
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="►AM | BRAZIL",BR| ESPN HD
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="",BR| ESPN HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31210.ts
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="BR| ESPN 4 HD" tvg-logo="https://lo1.in/BR/espn4.png" group-title="►AM | BRAZIL",BR| ESPN 4 HD
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="BR| ESPN 4 HD" tvg-logo="https://lo1.in/BR/espn4.png" group-title="",BR| ESPN 4 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30180.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR| COMBATE HD" tvg-logo="https://lo1.in/BR/combt.png" group-title="►AM | BRAZIL",BR| COMBATE HD
+#EXTINF:-1 tvg-id="combate.br" tvg-name="BR| COMBATE HD" tvg-logo="https://lo1.in/BR/combt.png" group-title="",BR| COMBATE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30164.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR| BAND SPORTS HD" tvg-logo="https://lo1.in/BR/bansp.png" group-title="►AM | BRAZIL",BR| BAND SPORTS HD
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR| BAND SPORTS HD" tvg-logo="https://lo1.in/BR/bansp.png" group-title="",BR| BAND SPORTS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30155.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| MUSIC◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| MUSIC◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| MUSIC◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| MUSIC◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131618.ts
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BR| BIS HD" tvg-logo="https://lo1.in/BR/bis.png" group-title="►AM | BRAZIL",BR| BIS HD
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BR| BIS HD" tvg-logo="https://lo1.in/BR/bis.png" group-title="",BR| BIS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31244.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| DOCUMANTARY◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►► BRAZIL| DOCUMANTARY◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►► BRAZIL| DOCUMANTARY◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►► BRAZIL| DOCUMANTARY◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/131619.ts
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="►AM | BRAZIL",BR| ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="",BR| ANIMAL PLANET HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84375.ts
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="►AM | BRAZIL",BR| DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="",BR| DISCOVERY CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31232.ts
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="►AM | BRAZIL",BR| DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="",BR| DISCOVERY H&H HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30170.ts
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR| DISCOVERY KIDS HD" tvg-logo="https://lo1.in/BR/diskds.png" group-title="►AM | BRAZIL",BR| DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR| DISCOVERY KIDS HD" tvg-logo="https://lo1.in/BR/diskds.png" group-title="",BR| DISCOVERY KIDS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31236.ts
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/BR/dissci.png" group-title="►AM | BRAZIL",BR| DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/BR/dissci.png" group-title="",BR| DISCOVERY SCIENCE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30173.ts
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER HD" tvg-logo="https://lo1.in/BR/disthe.png" group-title="►AM | BRAZIL",BR| DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER HD" tvg-logo="https://lo1.in/BR/disthe.png" group-title="",BR| DISCOVERY THEATER HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31233.ts
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO HD" tvg-logo="https://lo1.in/BR/distrb.png" group-title="►AM | BRAZIL",BR| DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO HD" tvg-logo="https://lo1.in/BR/distrb.png" group-title="",BR| DISCOVERY TURBO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31231.ts
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD HD" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="►AM | BRAZIL",BR| DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD HD" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="",BR| DISCOVERY WORLD HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31234.ts
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="BR| HISTORY CHANNEL HD" tvg-logo="https://lo1.in/BR/histch.png" group-title="►AM | BRAZIL",BR| HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="BR| HISTORY CHANNEL HD" tvg-logo="https://lo1.in/BR/histch.png" group-title="",BR| HISTORY CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30223.ts
-#EXTINF:-1 tvg-id="history2.br" tvg-name="BR| H2 HD" tvg-logo="https://lo1.in/BR/h2.png" group-title="►AM | BRAZIL",BR| H2 HD
+#EXTINF:-1 tvg-id="history2.br" tvg-name="BR| H2 HD" tvg-logo="https://lo1.in/BR/h2.png" group-title="",BR| H2 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30216.ts
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="►AM | BRAZIL",BR| DISCOVERY ID-INVESTIGACAO HD
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="",BR| DISCOVERY ID-INVESTIGACAO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30224.ts
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="BR| NAT GEO HD" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="►AM | BRAZIL",BR| NAT GEO HD
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="BR| NAT GEO HD" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="",BR| NAT GEO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84376.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| NAT GEO KIDS HD" tvg-logo="https://lo1.in/BR/natgeok.png" group-title="►AM | BRAZIL",BR| NAT GEO KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| NAT GEO KIDS HD" tvg-logo="https://lo1.in/BR/natgeok.png" group-title="",BR| NAT GEO KIDS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31239.ts
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="BR| CNN INTERNACIONAL HD" tvg-logo="https://lo1.in/BR/cnnint.png" group-title="►AM | BRAZIL",BR| CNN INTERNACIONAL HD
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="BR| CNN INTERNACIONAL HD" tvg-logo="https://lo1.in/BR/cnnint.png" group-title="",BR| CNN INTERNACIONAL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/91773.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV  1 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="►AM | BRAZIL",BR| CONMEBOL TV  1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV  1 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="",BR| CONMEBOL TV  1 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/91774.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV 2 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="►AM | BRAZIL",BR| CONMEBOL TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV 2 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="",BR| CONMEBOL TV 2 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/91775.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV  3 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="►AM | BRAZIL",BR| CONMEBOL TV  3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV  3 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="",BR| CONMEBOL TV  3 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV 4 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="►AM | BRAZIL",BR| CONMEBOL TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV 4 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="",BR| CONMEBOL TV 4 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97850.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TVN BRASIL HD" tvg-logo="https://lo1.in/BR/tnbr.png" group-title="►AM | BRAZIL",BR| TVN BRASIL HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TVN BRASIL HD" tvg-logo="https://lo1.in/BR/tnbr.png" group-title="",BR| TVN BRASIL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97938.ts
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="BR| REDE GOSPEL HD" tvg-logo="https://lo1.in/BR/rdgsp.png" group-title="►AM | BRAZIL",BR| REDE GOSPEL HD
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="BR| REDE GOSPEL HD" tvg-logo="https://lo1.in/BR/rdgsp.png" group-title="",BR| REDE GOSPEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97940.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| PFC HD" tvg-logo="https://lo1.in/BR/pfc.png" group-title="►AM | BRAZIL",BR| PFC HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| PFC HD" tvg-logo="https://lo1.in/BR/pfc.png" group-title="",BR| PFC HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97942.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| FILM & ARTS HD" tvg-logo="https://lo1.in/arg/fart.png" group-title="►AM | BRAZIL",BR| FILM & ARTS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| FILM & ARTS HD" tvg-logo="https://lo1.in/arg/fart.png" group-title="",BR| FILM & ARTS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/97943.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TERCEIRO ANJO HD" tvg-logo="https://lo1.in/BR/tterc.png" group-title="►AM | BRAZIL",BR| TV TERCEIRO ANJO HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV TERCEIRO ANJO HD" tvg-logo="https://lo1.in/BR/tterc.png" group-title="",BR| TV TERCEIRO ANJO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101835.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV PAI ETERNO HD" tvg-logo="https://lo1.in/BR/tpai.png" group-title="►AM | BRAZIL",BR| TV PAI ETERNO HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV PAI ETERNO HD" tvg-logo="https://lo1.in/BR/tpai.png" group-title="",BR| TV PAI ETERNO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101837.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV METRÓPOLE HD" tvg-logo="https://lo1.in/BR/metro.png" group-title="►AM | BRAZIL",BR| TV METRÓPOLE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV METRÓPOLE HD" tvg-logo="https://lo1.in/BR/metro.png" group-title="",BR| TV METRÓPOLE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101838.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV GALEGA HD" tvg-logo="https://lo1.in/BR/galg.png" group-title="►AM | BRAZIL",BR| TV GALEGA HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV GALEGA HD" tvg-logo="https://lo1.in/BR/galg.png" group-title="",BR| TV GALEGA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101839.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV DIGITAL BIRIGUI HD" tvg-logo="https://lo1.in/BR/digit.png" group-title="►AM | BRAZIL",BR| TV DIGITAL BIRIGUI HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV DIGITAL BIRIGUI HD" tvg-logo="https://lo1.in/BR/digit.png" group-title="",BR| TV DIGITAL BIRIGUI HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101840.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV DESTAK SD" tvg-logo="https://lo1.in/BR/destak1.png" group-title="►AM | BRAZIL",BR| TV DESTAK SD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV DESTAK SD" tvg-logo="https://lo1.in/BR/destak1.png" group-title="",BR| TV DESTAK SD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101841.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| REDE MÃO AMIGA HD" tvg-logo="https://lo1.in/BR/mao.png" group-title="►AM | BRAZIL",BR| REDE MÃO AMIGA HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| REDE MÃO AMIGA HD" tvg-logo="https://lo1.in/BR/mao.png" group-title="",BR| REDE MÃO AMIGA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101842.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="►AM | BRAZIL",BR| CNN BRASIL HD
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="",BR| CNN BRASIL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30163.ts
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="►AM | BRAZIL",BR| DISCOVERY TLC HD
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="",BR| DISCOVERY TLC HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30175.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="BR| FUTURA HD" tvg-logo="https://lo1.in/BR/futr.png" group-title="►AM | BRAZIL",BR| FUTURA HD
+#EXTINF:-1 tvg-id="futura.br" tvg-name="BR| FUTURA HD" tvg-logo="https://lo1.in/BR/futr.png" group-title="",BR| FUTURA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30190.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| ANHANGUERA GOIANIA" tvg-logo="https://lo1.in/BR/anhago.png" group-title="►AM | BRAZIL",BR| ANHANGUERA GOIANIA
+#EXTINF:-1 tvg-id="" tvg-name="BR| ANHANGUERA GOIANIA" tvg-logo="https://lo1.in/BR/anhago.png" group-title="",BR| ANHANGUERA GOIANIA
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30193.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO EPTV CAMPINAS HD" tvg-logo="https://lo1.in/BR/glboca.png" group-title="►AM | BRAZIL",BR| GLOBO EPTV CAMPINAS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO EPTV CAMPINAS HD" tvg-logo="https://lo1.in/BR/glboca.png" group-title="",BR| GLOBO EPTV CAMPINAS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30196.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO EPTV SAO CARLOS HD" tvg-logo="https://lo1.in/BR/glboca.png" group-title="►AM | BRAZIL",BR| GLOBO EPTV SAO CARLOS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO EPTV SAO CARLOS HD" tvg-logo="https://lo1.in/BR/glboca.png" group-title="",BR| GLOBO EPTV SAO CARLOS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30197.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RIO GRANDE DO NORTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO RIO GRANDE DO NORTE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RIO GRANDE DO NORTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO RIO GRANDE DO NORTE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30204.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RPC TV HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO RPC TV HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RPC TV HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO RPC TV HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30206.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV BELEM HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO TV BELEM HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV BELEM HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO TV BELEM HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30208.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TEM SOROCABA HD" tvg-logo="https://lo1.in/BR/ttem.png" group-title="►AM | BRAZIL",BR| TV TEM SOROCABA HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV TEM SOROCABA HD" tvg-logo="https://lo1.in/BR/ttem.png" group-title="",BR| TV TEM SOROCABA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30210.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TRIBUNA SANTOS HD" tvg-logo="https://lo1.in/BR/ttrib.png" group-title="►AM | BRAZIL",BR| TV TRIBUNA SANTOS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV TRIBUNA SANTOS HD" tvg-logo="https://lo1.in/BR/ttrib.png" group-title="",BR| TV TRIBUNA SANTOS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30211.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV VERDES MARES FORTALEZA HD" tvg-logo="https://lo1.in/BR/terdes.png" group-title="►AM | BRAZIL",BR| TV VERDES MARES FORTALEZA HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV VERDES MARES FORTALEZA HD" tvg-logo="https://lo1.in/BR/terdes.png" group-title="",BR| TV VERDES MARES FORTALEZA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30212.ts
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="BR| HGTV HD" tvg-logo="https://lo1.in/BR/hg.png" group-title="►AM | BRAZIL",BR| HGTV HD
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="BR| HGTV HD" tvg-logo="https://lo1.in/BR/hg.png" group-title="",BR| HGTV HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30222.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD AMAZONAS FHD" tvg-logo="https://lo1.in/BR/rcodamz.png" group-title="►AM | BRAZIL",BR| RECORD AMAZONAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD AMAZONAS FHD" tvg-logo="https://lo1.in/BR/rcodamz.png" group-title="",BR| RECORD AMAZONAS FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30236.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD MG HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="►AM | BRAZIL",BR| RECORD MG HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD MG HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="",BR| RECORD MG HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30237.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD NORDESTE HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="►AM | BRAZIL",BR| RECORD NORDESTE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD NORDESTE HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="",BR| RECORD NORDESTE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30239.ts
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="BR| REDE VIDA HD" tvg-logo="https://lo1.in/BR/rdet0.png" group-title="►AM | BRAZIL",BR| REDE VIDA HD
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="BR| REDE VIDA HD" tvg-logo="https://lo1.in/BR/rdet0.png" group-title="",BR| REDE VIDA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30242.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT SP HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="►AM | BRAZIL",BR| SBT SP HD
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT SP HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="",BR| SBT SP HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30243.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| SBT NORDESTE HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="►AM | BRAZIL",BR| SBT NORDESTE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| SBT NORDESTE HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="",BR| SBT NORDESTE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30245.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| SBT RJ HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="►AM | BRAZIL",BR| SBT RJ HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| SBT RJ HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="",BR| SBT RJ HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30246.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="BR| TV CULTURA HD" tvg-logo="https://lo1.in/BR/cultr.png" group-title="►AM | BRAZIL",BR| TV CULTURA HD
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="BR| TV CULTURA HD" tvg-logo="https://lo1.in/BR/cultr.png" group-title="",BR| TV CULTURA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30265.ts
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| TV DIARIO HD" tvg-logo="https://lo1.in/BR/diar.png" group-title="►AM | BRAZIL",BR| TV DIARIO HD
+#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| TV DIARIO HD" tvg-logo="https://lo1.in/BR/diar.png" group-title="",BR| TV DIARIO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30266.ts
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR| VH1 HD" tvg-logo="https://lo1.in/BR/mtvbr.png" group-title="►AM | BRAZIL",BR| VH1 HD
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR| VH1 HD" tvg-logo="https://lo1.in/BR/mtvbr.png" group-title="",BR| VH1 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30272.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL GENERAL FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL GENERAL FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL GENERAL FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL GENERAL FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140600.ts
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA FHD" tvg-logo="https://lo1.in/BR/viva.png" group-title="►AM | BRAZIL",BR| VIVA FHD
+#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA FHD" tvg-logo="https://lo1.in/BR/viva.png" group-title="",BR| VIVA FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30273.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| FONTE TV FHD" tvg-logo="https://lo1.in/BR/font.png" group-title="►AM | BRAZIL",BR| FONTE TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="BR| FONTE TV FHD" tvg-logo="https://lo1.in/BR/font.png" group-title="",BR| FONTE TV FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30183.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL NEWS FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL NEWS FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL NEWS FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL NEWS FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140601.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL KIDS FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL KIDS FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL KIDS FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL KIDS FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140602.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOONITO FHD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="►AM | BRAZIL",BR| CARTOONITO FHD
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOONITO FHD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="",BR| CARTOONITO FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30161.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL MOVIES FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL MOVIES FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL MOVIES FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL MOVIES FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140603.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL SPORT FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL SPORT FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL SPORT FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL SPORT FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140604.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 2 HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="►AM | BRAZIL",BR| ESPN 2 HD
+#EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 2 HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="",BR| ESPN 2 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31209.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL MUSIC FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL MUSIC FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL MUSIC FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL MUSIC FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140605.ts
-#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL DOCUMANTARY FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",►►►BRAZIL DOCUMANTARY FHD◄◄◄
+#EXTINF:-1 tvg-id="" tvg-name="►►►BRAZIL DOCUMANTARY FHD◄◄◄" tvg-logo="https://lo1.in/BR/flag.png" group-title="",►►►BRAZIL DOCUMANTARY FHD◄◄◄
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/140606.ts
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="BR| TV GAZETA HD" tvg-logo="https://lo1.in/BR/tgaze.png" group-title="►AM | BRAZIL",BR| TV GAZETA HD
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="BR| TV GAZETA HD" tvg-logo="https://lo1.in/BR/tgaze.png" group-title="",BR| TV GAZETA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/31243.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="►AM | BRAZIL",BR| GLOBO NSC FLORIANOPOLIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="",BR| GLOBO NSC FLORIANOPOLIS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84350.ts
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="BR| GLOBO TV PORTUGAL HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="►AM | BRAZIL",BR| GLOBO TV PORTUGAL HD
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="BR| GLOBO TV PORTUGAL HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="",BR| GLOBO TV PORTUGAL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84351.ts
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="BR| TV CAMARA HD" tvg-logo="https://lo1.in/BR/camr.png" group-title="►AM | BRAZIL",BR| TV CAMARA HD
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="BR| TV CAMARA HD" tvg-logo="https://lo1.in/BR/camr.png" group-title="",BR| TV CAMARA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84358.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV VANGUARDA DOS CAMPOS HD" tvg-logo="https://lo1.in/BR/tangu.png" group-title="►AM | BRAZIL",BR| TV VANGUARDA DOS CAMPOS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| TV VANGUARDA DOS CAMPOS HD" tvg-logo="https://lo1.in/BR/tangu.png" group-title="",BR| TV VANGUARDA DOS CAMPOS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84360.ts
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR| HBO XTREME HD" tvg-logo="https://lo1.in/BR/hboxtr.png" group-title="►AM | BRAZIL",BR| HBO XTREME HD
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR| HBO XTREME HD" tvg-logo="https://lo1.in/BR/hboxtr.png" group-title="",BR| HBO XTREME HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84362.ts
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="BR| HBO MUNDI HD" tvg-logo="https://lo1.in/BR/hbom.png" group-title="►AM | BRAZIL",BR| HBO MUNDI HD
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="BR| HBO MUNDI HD" tvg-logo="https://lo1.in/BR/hbom.png" group-title="",BR| HBO MUNDI HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84363.ts
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="BR| HBO POP HD" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="►AM | BRAZIL",BR| HBO POP HD
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="BR| HBO POP HD" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="",BR| HBO POP HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84364.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="BR| FISH TV HD" tvg-logo="https://lo1.in/BR/fish.png" group-title="►AM | BRAZIL",BR| FISH TV HD
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="BR| FISH TV HD" tvg-logo="https://lo1.in/BR/fish.png" group-title="",BR| FISH TV HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84377.ts
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="BR| GLOBO INTERNACIONAL HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO INTERNACIONAL HD
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="BR| GLOBO INTERNACIONAL HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO INTERNACIONAL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30198.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| BAND SP HD" tvg-logo="https://lo1.in/BR/band.png" group-title="►AM | BRAZIL",BR| BAND SP HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| BAND SP HD" tvg-logo="https://lo1.in/BR/band.png" group-title="",BR| BAND SP HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6104.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BAURU HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO BAURU HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BAURU HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO BAURU HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6100.ts
-#EXTINF:-1 tvg-id="starchannel.br" tvg-name="BR| STAR CHANNEL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",BR| STAR CHANNEL HD
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="BR| STAR CHANNEL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="",BR| STAR CHANNEL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6098.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| CINE CANAL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",BR| CINE CANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| CINE CANAL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="",BR| CINE CANAL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6097.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="BR| REDE TV HD" tvg-logo="https://lo1.in/BR/rdet0.png" group-title="►AM | BRAZIL",BR| REDE TV HD
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="BR| REDE TV HD" tvg-logo="https://lo1.in/BR/rdet0.png" group-title="",BR| REDE TV HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6096.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD RJ HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="►AM | BRAZIL",BR| RECORD RJ HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD RJ HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="",BR| RECORD RJ HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6094.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD RS HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="►AM | BRAZIL",BR| RECORD RS HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD RS HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="",BR| RECORD RS HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6093.ts
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="BR| TV BRASIL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",BR| TV BRASIL HD
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="BR| TV BRASIL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="",BR| TV BRASIL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/6090.ts
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR| ZOOMOO HD" tvg-logo="https://lo1.in/BR/zomo.png" group-title="►AM | BRAZIL",BR| ZOOMOO HD
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR| ZOOMOO HD" tvg-logo="https://lo1.in/BR/zomo.png" group-title="",BR| ZOOMOO HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30278.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BAHIA" tvg-logo="https://lo1.in/BR/glbo.png" group-title="►AM | BRAZIL",BR| GLOBO BAHIA
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BAHIA" tvg-logo="https://lo1.in/BR/glbo.png" group-title="",BR| GLOBO BAHIA
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/9248.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD BAHIA HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="►AM | BRAZIL",BR| RECORD BAHIA HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD BAHIA HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="",BR| RECORD BAHIA HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/9249.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV MIRANTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="►AM | BRAZIL",BR| GLOBO TV MIRANTE HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV MIRANTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="",BR| GLOBO TV MIRANTE HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1350093.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD SP HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="►AM | BRAZIL",BR| RECORD SP HD
+#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD SP HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="",BR| RECORD SP HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1350092.ts
-#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="BR| PRIME BOX BRASIL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="►AM | BRAZIL",BR| PRIME BOX BRASIL HD
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="BR| PRIME BOX BRASIL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="",BR| PRIME BOX BRASIL HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1350091.ts
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR| NICK HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="►AM | BRAZIL",BR| NICK HD
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR| NICK HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="",BR| NICK HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1350090.ts
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="BR| ESPN 3 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="►AM | BRAZIL",BR| ESPN 3 HD
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="BR| ESPN 3 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="",BR| ESPN 3 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1348534.ts
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR| ESPN 5 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="►AM | BRAZIL",BR| ESPN 5 HD
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR| ESPN 5 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="",BR| ESPN 5 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1348533.ts
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN 6 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="►AM | BRAZIL",BR| ESPN 6 HD
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN 6 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="",BR| ESPN 6 HD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/1348532.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### BRAZIL PLUTO TV####" tvg-logo="" group-title="►AM | BRAZIL PLUTO TV",#### BRAZIL PLUTO TV####
+#EXTINF:-1 tvg-id="" tvg-name="#### BRAZIL PLUTO TV####" tvg-logo="" group-title=" PLUTO TV",#### BRAZIL PLUTO TV####
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/617980.ts
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="BR| TOONCAST FHD" tvg-logo="https://lo1.in/BR/tonc.png" group-title="►AM | BRAZIL PLUTO TV",BR| TOONCAST FHD
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="BR| TOONCAST FHD" tvg-logo="https://lo1.in/BR/tonc.png" group-title="",BR| TOONCAST FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/30261.ts
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="BR| TV APARECIDA FHD" tvg-logo="https://lo1.in/BR/apra.png" group-title="►AM | BRAZIL PLUTO TV",BR| TV APARECIDA FHD
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="BR| TV APARECIDA FHD" tvg-logo="https://lo1.in/BR/apra.png" group-title="",BR| TV APARECIDA FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/84357.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR| NOVA ERA TV FHD" tvg-logo="https://lo1.in/BR/novaer.png" group-title="►AM | BRAZIL PLUTO TV",BR| NOVA ERA TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="BR| NOVA ERA TV FHD" tvg-logo="https://lo1.in/BR/novaer.png" group-title="",BR| NOVA ERA TV FHD
 http://ztpppyfj.extatlas.com/live/4021376495/2501002631/101849.ts
